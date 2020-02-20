@@ -1,4 +1,4 @@
-id,body,created,tag,newSymbols
+id,cleanSents,created,tag,newSymbols
 195127142,"$DXC option volume was 42X normal on Friday with 137,641 contracts. Call volume was 51% and put volume was 49%. http://tinyurl.com/r33qx8b",2020-02-15 12:37:50,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 195138061,"$DXC (0.59%) 1-day trading volume of 10,763,374 was 3.03 times its average daily volume over the last year (3,549,681)",2020-02-15 16:57:17,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 195138315,"Worst 1-year total returns in S&amp;P 500 as of 2/14/2020: 1. ABIOMED $ABMD (-53.27%), 2. DXC Technology $DXC (-51.86%), 3. Cimarex Energy $XEC (-46.79%), 4. Mosaic $MOS (-40.79%), 5. Kraft Heinz $KHC (-39.97%)",2020-02-15 17:01:51,none,"[{'symbol': 'ABMD', 'title': 'Abiomed Inc.'}, {'symbol': 'MOS', 'title': 'Mosaic Co.'}, {'symbol': 'XEC', 'title': 'Cimarex Energy Co.'}, {'symbol': 'KHC', 'title': 'The Kraft Heinz Company'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -639,7 +639,7 @@ https://newsfilter.io/a/dbb33463ebaa0057c18dabdb5b78bb12",2020-02-17 15:02:21,no
 195343324,"When I compare the PEG value, $DXC outperforms its peers. Check for yourself https://wallmine.com/nyse/dxc/peers/peg?utm_source=stocktwits",2020-02-18 16:05:18,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 195375534,$DXC incredible,2020-02-18 18:26:52,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 195417205,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-18/,2020-02-18 21:23:50,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -686,7 +686,7 @@ https://newsfilter.io/a/dbb33463ebaa0057c18dabdb5b78bb12",2020-02-17 15:02:21,no
 195343324,"When I compare the PEG value, $DXC outperforms its peers. Check for yourself https://wallmine.com/nyse/dxc/peers/peg?utm_source=stocktwits",2020-02-18 16:05:18,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 195375534,$DXC incredible,2020-02-18 18:26:52,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194633859,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-12/,2020-02-12 21:24:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -733,7 +733,7 @@ https://newsfilter.io/a/dbb33463ebaa0057c18dabdb5b78bb12",2020-02-17 15:02:21,no
 195343324,"When I compare the PEG value, $DXC outperforms its peers. Check for yourself https://wallmine.com/nyse/dxc/peers/peg?utm_source=stocktwits",2020-02-18 16:05:18,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194609885,$DXC had approximately 12M USD go to the short side at 20 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-12 20:04:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194633859,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-12/,2020-02-12 21:24:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -780,7 +780,7 @@ https://newsfilter.io/a/dbb33463ebaa0057c18dabdb5b78bb12",2020-02-17 15:02:21,no
 194575054,$DXC,2020-02-12 17:50:15,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194609885,$DXC had approximately 12M USD go to the short side at 20 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-12 20:04:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194633859,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-12/,2020-02-12 21:24:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -827,7 +827,7 @@ https://newsfilter.io/a/dbb33463ebaa0057c18dabdb5b78bb12",2020-02-17 15:02:21,no
 194575054,$DXC,2020-02-12 17:50:15,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194609885,$DXC had approximately 12M USD go to the short side at 20 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-12 20:04:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194633859,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-12/,2020-02-12 21:24:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -876,7 +876,7 @@ https://newsfilter.io/a/9682c8ed6980cc80704550b562601313",2020-02-12 15:17:48,no
 194575054,$DXC,2020-02-12 17:50:15,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194609885,$DXC had approximately 12M USD go to the short side at 20 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-12 20:04:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194633859,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-12/,2020-02-12 21:24:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -923,7 +923,7 @@ https://newsfilter.io/a/9682c8ed6980cc80704550b562601313",2020-02-12 15:17:48,no
 194575054,$DXC,2020-02-12 17:50:15,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194609885,$DXC had approximately 12M USD go to the short side at 20 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-12 20:04:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194633859,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-12/,2020-02-12 21:24:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -970,7 +970,7 @@ https://newsfilter.io/a/9682c8ed6980cc80704550b562601313",2020-02-12 15:17:48,no
 194575054,$DXC,2020-02-12 17:50:15,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194609885,$DXC had approximately 12M USD go to the short side at 20 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-12 20:04:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194633859,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-12/,2020-02-12 21:24:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -1017,7 +1017,7 @@ https://newsfilter.io/a/9682c8ed6980cc80704550b562601313",2020-02-12 15:17:48,no
 194575054,$DXC,2020-02-12 17:50:15,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194609885,$DXC had approximately 12M USD go to the short side at 20 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-12 20:04:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194633859,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-12/,2020-02-12 21:24:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -1063,7 +1063,7 @@ https://newsfilter.io/a/9682c8ed6980cc80704550b562601313",2020-02-12 15:17:48,no
 194575054,$DXC,2020-02-12 17:50:15,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194609885,$DXC had approximately 12M USD go to the short side at 20 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-12 20:04:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194633859,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-12/,2020-02-12 21:24:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -1110,7 +1110,7 @@ https://newsfilter.io/a/9682c8ed6980cc80704550b562601313",2020-02-12 15:17:48,no
 194575054,$DXC,2020-02-12 17:50:15,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194609885,$DXC had approximately 12M USD go to the short side at 20 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-12 20:04:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194633859,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-12/,2020-02-12 21:24:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -1157,7 +1157,7 @@ https://newsfilter.io/a/9682c8ed6980cc80704550b562601313",2020-02-12 15:17:48,no
 194575054,$DXC,2020-02-12 17:50:15,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194609885,$DXC had approximately 12M USD go to the short side at 20 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-12 20:04:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194633859,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-12/,2020-02-12 21:24:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -1204,7 +1204,7 @@ https://newsfilter.io/a/9682c8ed6980cc80704550b562601313",2020-02-12 15:17:48,no
 194575054,$DXC,2020-02-12 17:50:15,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194609885,$DXC had approximately 12M USD go to the short side at 20 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-12 20:04:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194633859,Your daily News digest for DXC Technology Company $DXC https://wsfriend.com/daily/news/DXC/2020-02-12/,2020-02-12 21:24:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-194647086,$dxc they must have 🐑 technology.  Only the dingleberries remain.  🐷🐑,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+194647086,$dxc they must have  technology.  Only the dingleberries remain.  ,2020-02-12 22:17:39,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194711005,$DXC had approximately 12M USD go to the short side at 18 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2020-02-13 10:49:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 194803277,"New monthly lows 
 $KHC $MRK $W $INST $DXC  
@@ -1283,7 +1283,7 @@ http://ooc.bz/l/48063",2020-02-07 13:32:43,none,"[{'symbol': 'DXC', 'title': 'DX
 193835366,"$DXC DXC Technology Gap fill opportunity post earnings . Impressive earnings report details. Source Business wire
 Q3 ea",2020-02-07 13:01:25,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 193831401,"After market movers: $DXC https://www.chartmill.com/stock/stock-screener?v=5&amp;f=s_amg,p_pg10,v1_50b500,exch_us&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_after_market_gainers&amp;utm_campaign=social_tracking",2020-02-07 12:25:00,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-193811424,"🔥 Top After Hours Movers 🔥
+193811424," Top After Hours Movers 
 
 $ASRT $PINS $CODX $DXC $IBIO",2020-02-07 04:16:35,Bullish,"[{'symbol': 'ASRT', 'title': 'Assertio Therapeutics Inc'}, {'symbol': 'IBIO', 'title': 'iBio, Inc.'}, {'symbol': 'PINS', 'title': 'Pinterest'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'CODX', 'title': 'CO Diagnostics Inc'}]"
 193808124,"$DXC 5.3 Bn new business contracts during the quarter,2.5 for GBS and 2.8 for GIS
@@ -1497,7 +1497,7 @@ https://www.prnewswire.co.uk/news-releases/dexcom-partners-with-tandem-diabetes-
 187840706,$DXC - DXC Technology to outpitch CDW ($CDW) in January. Next… http://dlvr.it/RLpHyj #portfolio_prospective #better_portfolio #diversify,2019-12-23 13:42:09,none,"[{'symbol': 'CDW', 'title': 'CDW Corp.'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 187816933,$DXC has an average volume of 4461020. This is a good sign as it is always nice to have a liquid stock. https://www.chartmill.com/stock/quote/DXC/technical-analysis?key=ff8828dc-b83c-49ce-a9f9-fb7687d52f4f&amp;utm_source=stocktwits&amp;utm_medium=TA&amp;utm_content=DXC&amp;utm_campaign=social_tracking,2019-12-23 01:03:00,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 187802472,"$DXC 5 sec ago: DXC Technology Co Given Consensus Rating of “Hold” by Analysts: Shares of DXC Technology Co have been assigned an average rating of “Hold” from the nineteen analysts that are covering the stock, .. https://newsfilter.io/articles/dxc-technology-co-nysedxc-given-consensus-rating-of-hold-by-analysts-27aae1804ed98b5ee9752b7cdd7657ee",2019-12-22 17:43:42,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-187792978,$DXB $DXC $DXCM $DXD 🆗,2019-12-22 08:12:04,Bullish,"[{'symbol': 'DXCM', 'title': 'DexCom, Inc.'}, {'symbol': 'DXB', 'title': 'Deutsche Bank Contingent Capital Trust II'}, {'symbol': 'DXD', 'title': 'ProShares UltraShort Dow30'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+187792978,$DXB $DXC $DXCM $DXD ,2019-12-22 08:12:04,Bullish,"[{'symbol': 'DXCM', 'title': 'DexCom, Inc.'}, {'symbol': 'DXB', 'title': 'Deutsche Bank Contingent Capital Trust II'}, {'symbol': 'DXD', 'title': 'ProShares UltraShort Dow30'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 187748134,DXC Technology&#39;s PT raised by BMO Capital Markets to $43.00. https://www.marketbeat.com/r/1319983 $DXC,2019-12-21 00:42:46,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 187745725,$DXC 37 sec ago: Form 3 (initial statement of beneficial ownership of securities) filed with the SEC https://newsfilter.io/articles/3-form---initial-statement-of-beneficial-ownership-of-securities---dxc-technology-co-0001688568-issu-a6ddc549aad481ddbab1e2a82437ef4f,2019-12-21 00:02:55,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 187745468,"Everett SpinCo, Inc.&#39;s See Remarks just declared owning 73,266 shares of Everett SpinCo, Inc.  http://www.conferencecalltranscripts.org/5/summary/?id=7215063 $DXC",2019-12-20 23:59:00,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -1589,7 +1589,7 @@ source: finscreener",2019-11-29 22:39:14,none,"[{'symbol': 'CF', 'title': 'CF In
 185275763,Daily news snapshot for $DXC https://wsfriend.com/daily/news/DXC/2019-11-28/,2019-11-28 09:06:37,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 185265801,$DXC damn this has been the easiest +20% short term ride ever.  Accumulated under $30.  Probably hold a year to lower taxes.,2019-11-28 02:10:49,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 185211178,$DXC those massive call options buys strike 37.50 are going to trigger massive rally once it crosses the 39$.,2019-11-27 18:06:25,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-185204489,"$DXC  out here 🤩 
+185204489,"$DXC  out here  
 Still have room",2019-11-27 17:25:38,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 185199154,$DXC pls don’t trigger my stop losses as the stock drops big. Let it run pass $37.,2019-11-27 16:56:16,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 185149299,"$DXC I dunno shit about this company, i got in because it was trading at ridicolously low pe and forecast is good for next two fiscals. Is this a sound company or not in the long run?",2019-11-27 09:56:20,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -1756,7 +1756,7 @@ stockbeep.com/bo-nov12a",2019-11-12 16:25:15,none,"[{'symbol': 'AMRN', 'title': 
 http://financialinsiders.com/dxc-technology-q2-earnings-11524",2019-11-12 16:18:41,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183385929,$DXC Short squeeze has been astronomical.......i almost feel sorry for those that lost so much money that they are probably broke.,2019-11-12 16:18:17,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183383401,$DXC I was kind of hoping those bears would be right and this would crash down to $20 or $25. I planned to load up the truck. This new CEO is looking very intelligent right now.,2019-11-12 16:05:44,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183382375,"$DXC finally, got back in this am👍",2019-11-12 16:01:00,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183382375,"$DXC finally, got back in this am",2019-11-12 16:01:00,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183380892,"Uptrend stocks in the morning (higher highs) 
 $AMRN $BAC $DXC $SE $PLUG  
  
@@ -1836,9 +1836,9 @@ http://ooc.bz/l/44475",2019-11-12 13:36:05,none,"[{'symbol': 'DXC', 'title': 'DX
 183352827,"$DXC (+6.0% pre) DXC Technology (DXC) Q2 Earnings &amp; Revenues Miss Estimates - Zacks (1/2)
 
 http://ooc.bz/l/44474",2019-11-12 13:36:01,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183352517,$DXC who bought at 24 👀,2019-11-12 13:33:27,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183352517,$DXC who bought at 24 ,2019-11-12 13:33:27,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183352512,Disney+ goes live $DXC $DIS $SPY $DIJA $QQQ https://www.briefing.com/in-depth-analysis/stock-market-update/2019/11/12/disney-and--goes-live,2019-11-12 13:33:23,none,"[{'symbol': 'DIS', 'title': 'Walt Disney Co.'}, {'symbol': 'SPY', 'title': 'SPDR S&P 500'}, {'symbol': 'QQQ', 'title': 'PowerShares Nasdaq-100 QQQ'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183352504,$DXC who sold at 24 👀,2019-11-12 13:33:17,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183352504,$DXC who sold at 24 ,2019-11-12 13:33:17,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183351280,$DXC potential short candidate. Bull trap ahead,2019-11-12 13:24:15,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183351250,"$DXC  $32 will sell mine, i have been in since $26.65",2019-11-12 13:24:03,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183350535,$DXC On my SHORT list.  Easy retracement to $28.  I will be watching PUTS,2019-11-12 13:18:25,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -1875,14 +1875,14 @@ seekingalpha.com/article/43...",2019-11-12 11:09:18,Bearish,"[{'symbol': 'DXC', 
 183337739,$DXC  DXC Technology (NYSE:DXC) reported quarterly earnings of $1.38 per share which missed the analyst consensus estimate of $1.42 by 2.82 percent. This is a 31.68 percent decrease over earnings of $2.02 per share from the same period last year. The company reported quarterly sales of $4.851 billion which missed the analyst consensus estimate of $4.92 billion by 1.40 percent. This is a 3.23 percent decrease over sales of $5.013 billion the same period last year.    This went down to $24 after earnings.,2019-11-12 08:56:44,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183336518,"$DXC restructuring 3 units, divesting (selling non profitable assets), seeking growth, lighter, faster stronger",2019-11-12 07:22:12,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183335023,Daily news snapshot for $DXC https://wsfriend.com/daily/news/DXC/2019-11-12/,2019-11-12 06:07:01,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183333891,$DXC missed out on this baby because i fell 😴,2019-11-12 05:31:25,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183333891,$DXC missed out on this baby because i fell ,2019-11-12 05:31:25,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183332891,$DXC shows a strong growth in Revenue. Over the last 5 years it has been growing by 20.19% yearly. https://www.chartmill.com/stock/analyzer/stock/DXC?view=fundamental-analysis&amp;key=ff8828dc-b83c-49ce-a9f9-fb7687d52f4f&amp;utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=GROWTH&amp;utm_campaign=social_tracking,2019-11-12 05:01:00,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183332361,$DXC buybacks mean MORE to ANY investor then ANY ER....PERIOD! That’s why this is going higher!,2019-11-12 04:41:53,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183331150,"$DXC lol...Read the Transcript, they don&#39;t  have any share repurchase until they make additional 5 billion revenue which they expect to generate in 2022, going back to $24s tomorrow 
 https://seekingalpha.com/article/4305601-dxc-technology-co-dxc-ceo-mike-salvino-q2-2020-results-earnings-call-transcript",2019-11-12 04:02:37,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183329800,$DXC NEW ARTICLE : DXC Technology Co. (DXC) CEO Mike Salvino on Q2 2020 Results - Earnings Call Transcript https://dashboard.stck.pro/news.php?ticker=DXC&amp;rowid=945810 Get all the latest $DXC related news here : https://dashboard.stck.pro/news.php?ticker=DXC,2019-11-12 03:29:16,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183327193,$DXC obvious a fund ran this up ah and didnt want to take a loss. Will tank at open.,2019-11-12 02:37:00,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183326191,"🔥 After Hours Movers 🔥
+183326191," After Hours Movers 
 
 $KDMN $TRXC $DXC $CBS $BREW",2019-11-12 02:15:43,Bullish,"[{'symbol': 'BREW', 'title': 'Craft Brewers Alliance, Inc.'}, {'symbol': 'CBS', 'title': 'CBS Corporation'}, {'symbol': 'TRXC', 'title': 'TransEnterix Inc. '}, {'symbol': 'KDMN', 'title': 'Kadmon Holdings'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183324493,$DXC hmm,2019-11-12 01:47:01,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -1918,7 +1918,7 @@ $KDMN $TRXC $DXC $CBS $BREW",2019-11-12 02:15:43,Bullish,"[{'symbol': 'BREW', 't
 (18:03:29 PM)   
 $ 24.05 low 
 (17:03:03 PM)",2019-11-11 23:19:11,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183314269,$dxc 😆OMG🤪,2019-11-11 23:17:58,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183314269,$dxc OMG,2019-11-11 23:17:58,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183313732,$DXC Bag holders trying to pump this shit up AH - it is  a lousy company with lousy earnings - wait for this get dumped at open tomorrow...,2019-11-11 23:10:53,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183313722,$DXC still ok when it’s more than half current value!,2019-11-11 23:10:38,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183313552,$DXC damn what a reversal,2019-11-11 23:08:29,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -1946,7 +1946,7 @@ $ 24.05 low
 183311579,$DXC show me 35$ -40$,2019-11-11 22:44:02,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183311560,$DXC keep going baby !,2019-11-11 22:43:49,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183311505,$DXC Getting rewarded for lousy earnings!.. this is not going to last,2019-11-11 22:43:06,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183311484,$DXC what’s going on!?!?!?!? I think my stock price has frozen 🤣🤣🤣,2019-11-11 22:42:46,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183311484,$DXC what’s going on!?!?!?!? I think my stock price has frozen ,2019-11-11 22:42:46,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183311436,$DXC  cheers to those who freaked out at -16% and sold,2019-11-11 22:42:08,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183311393,$DXC woowowoo love it !,2019-11-11 22:41:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183311319,$DXC $35 tomorrow!?!,2019-11-11 22:40:49,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -1959,13 +1959,13 @@ It cannot have a lower price",2019-11-11 22:40:34,Bullish,"[{'symbol': 'DXC', 't
 183311132,$DXC crazy bought before only 10 shares was down now up,2019-11-11 22:38:17,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183311115,$DXC thx,2019-11-11 22:38:07,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183311030,$DXC and were up,2019-11-11 22:37:16,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183310977,$DXC Craziest Price Action I Ever Saw 🤑,2019-11-11 22:36:43,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183310977,$DXC Craziest Price Action I Ever Saw ,2019-11-11 22:36:43,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183310953,$DXC Has anyone looked at the  terrible earnings - this is a joke - can&#39;t wait to see the morning dump...,2019-11-11 22:36:14,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183310936,$DXC wow...looks like people beginning to think,2019-11-11 22:36:04,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183310926,"$DXC conference call. Said buyback was frozen because of outgoing ceo. Look out shorts, because the gloves are coming off.  4.25 billion coming your way",2019-11-11 22:35:56,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183310917,"$DXC the IV drop on this thing tomorrow is going to be glorious, I can’t wait",2019-11-11 22:35:49,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183310908,$DXC option sellers win BIG.,2019-11-11 22:35:47,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183310903,$DXC aye aye aye 🍊,2019-11-11 22:35:46,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183310903,$DXC aye aye aye ,2019-11-11 22:35:46,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183310852,$DXC 35$ Tmr !,2019-11-11 22:35:17,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183310840,$DXC 29$ now,2019-11-11 22:35:04,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183310787,$DXC Tmr super!,2019-11-11 22:34:25,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -1992,19 +1992,19 @@ Total costs and expenses climbed about 46% in the quarter ended  Sept. 30",2019-
 183308876,$DXC everything they&#39;ve said on the cc is bad...sandbagging next qtr?,2019-11-11 22:13:38,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183308739,$dxc  new CEO kitchen sinking this quarter … setting bar as low as possible,2019-11-11 22:12:02,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183308552,$DXC no way they pay out those 25 weekly puts,2019-11-11 22:10:04,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183308481,$DXC Why would you buy this? They just said they have NEGATIVE growth for next 5 Q’s 😂,2019-11-11 22:09:30,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183308481,$DXC Why would you buy this? They just said they have NEGATIVE growth for next 5 Q’s ,2019-11-11 22:09:30,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183308403,$DXC sub 20 tomorrow!,2019-11-11 22:08:42,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183308247,$DXC Yes...Down $700m cut for next year 😂,2019-11-11 22:07:06,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183308247,$DXC Yes...Down $700m cut for next year ,2019-11-11 22:07:06,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183308071,$DXC What awful performance. POS!,2019-11-11 22:05:27,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183307927,$DXC tommorow it definitely goes even lower,2019-11-11 22:03:55,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183307817,$DXC tomorrow will be even bigger disaster,2019-11-11 22:02:49,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183307763,$DXC bought calls before the er ?😙😙,2019-11-11 22:02:26,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183307763,$DXC bought calls before the er ?,2019-11-11 22:02:26,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183307699,$DXC ahhhhh!!!,2019-11-11 22:01:53,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183307664,$DXC this is dropping non stop.,2019-11-11 22:01:38,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183307564,$DXC might grab some calls tomorrow,2019-11-11 22:00:45,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183307536,$DXC They should just cut the dividend,2019-11-11 22:00:31,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183307287,$DXC Son of a gun!!! did not see this.  Should have held my short longer,2019-11-11 21:58:22,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183307273,"$DXC 😂 DXC Technology says will pursue strategic alternatives for adjacent business In Q2 presentation slides, DXC Technology said it will pursue strategic alternatives for adjacent businesses that &quot;do not fit the strategy&quot; the company intends to proceed with.
+183307273,"$DXC  DXC Technology says will pursue strategic alternatives for adjacent business In Q2 presentation slides, DXC Technology said it will pursue strategic alternatives for adjacent businesses that &quot;do not fit the strategy&quot; the company intends to proceed with.
 
 Read more at: 
 https://thefly.com/landingPageNews.php?id=2992006",2019-11-11 21:58:13,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2016,10 +2016,10 @@ https://thefly.com/landingPageNews.php?id=2992006",2019-11-11 21:58:13,none,"[{'
 183306587,$DXC I see it going to low 20s atleast,2019-11-11 21:51:38,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183306371,$DXC Stop hunt,2019-11-11 21:49:41,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183306226,"$DXC 
-Dear robots 🤖 
+Dear robots  
 Is it time for short squeeze to steal shorts’ money? 
-😉",2019-11-11 21:48:11,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183306184,$DXC 😂 Garbage as always...continue trading,2019-11-11 21:47:50,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+",2019-11-11 21:48:11,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183306184,$DXC  Garbage as always...continue trading,2019-11-11 21:47:50,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183305937,$DXC Terrible earnings and lousy outlook!,2019-11-11 21:45:29,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183305736,"$DXC 
 Short squeeze trap",2019-11-11 21:43:38,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2031,7 +2031,7 @@ Short squeeze trap",2019-11-11 21:43:38,Bullish,"[{'symbol': 'DXC', 'title': 'DX
 183304181,$DXC short at market open tomorrow,2019-11-11 21:30:53,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183304052,$DXC I think this has hit a bottom. New leadership looks good.,2019-11-11 21:30:00,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183304020,$DXC there is a smalllll gap to fill at $34....,2019-11-11 21:29:42,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183303976,$DXC 😴 No one cares...good or bad.,2019-11-11 21:29:25,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183303976,$DXC  No one cares...good or bad.,2019-11-11 21:29:25,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183303766,$DXC A Guidance Raise Will Get This Green,2019-11-11 21:27:44,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183303748,"$DXC DXC -1% after Q2 misses: DXC drops 0.9% after hours following Q2 misses with revenue down 3% Y/Y. Adjusted EBIT was $529M with a 10.9% margin, compared to the 15.9% margin in last year&#39;s quarter. Net cash from operating activities totaled $1.65B.. https://newsfilter.io/articles/dxc--1-after-q2-misses-b41e64d69fc82224eb8db8bce3f6611c",2019-11-11 21:27:38,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183303648,$DXC - expect a rally tomorrow as algos feared even more worse than reported...might see 33 tomorrow,2019-11-11 21:26:57,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2050,7 +2050,7 @@ http://www.estimize.com/dxc/fq2-2020?utm_content=beat_or_miss&amp;utm_medium=twe
 183302650,$DXC how does management get to keep their job? Mkt is up 26% and this turd burger is down 43% ytd.,2019-11-11 21:19:39,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183302648,"$DXC DXC Technology EPS misses by $0.05, misses on revenue: DXC Technology: Q3 Non-GAAP EPS of $1.38 misses by $0.05 ; GAAP EPS of -$8.19 misses by $8.84 . Revenue of $4.85B misses by $70M . Shares -4% . https://newsfilter.io/articles/dxc-technology-eps-misses-by-005-misses-on-revenue-aea2dd2c20e26053989f051c33530343",2019-11-11 21:19:38,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183302570,$DXC This is going down,2019-11-11 21:19:10,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183302481,$DXC ay yi yi💥,2019-11-11 21:18:29,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183302481,$DXC ay yi yi,2019-11-11 21:18:29,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183302377,"$DXC reported earnings of $1.38, consensus was $1.44, Earnings Whisper was $1.46 via @eWhispers #whispermiss http://eps.sh/d/dxc",2019-11-11 21:17:45,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183302327,$DXC 2.4min ago: DXC Technology Reports Second Quarter Fiscal 2020 Results http://www.businesswire.com/news/home/20191111005631/en/DXC-Technology-Reports-Quarter-Fiscal-2020-Results/,2019-11-11 21:17:25,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183302227,$DXC  Terrible earnings,2019-11-11 21:16:47,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2097,7 +2097,7 @@ http://dailymarketinsight.com/22796/workplace-services-market-to-expand-at-a-con
 183155354,"Worst 1-year total returns in S&amp;P 500 as of 11/8/2019: 1. $M (-55.06%), 2. $MYL (-52.6%), 3. $TRIP (-52.25%), 4. $DXC (-51.64%), 5. $LB (-49.02%)",2019-11-09 14:43:51,none,"[{'symbol': 'MYL', 'title': 'Mylan, Inc.'}, {'symbol': 'LB', 'title': 'L Brands, Inc. '}, {'symbol': 'M', 'title': ""Macy's, Inc.""}, {'symbol': 'TRIP', 'title': 'Tripadvisor Inc'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183155150,"Worst 3-month total returns in S&amp;P 500 as of 11/8/2019: 1. $DXC (-41.37%), 2. $ULTA (-32.22%), 3. $TWTR (-30.57%), 4. $ADS (-30.15%), 5. $TRIP (-26.12%)",2019-11-09 14:37:11,none,"[{'symbol': 'ULTA', 'title': 'Ulta Salon, Cosmetics & Fragrance, Inc.'}, {'symbol': 'ADS', 'title': 'Alliance Data Systems Corporation'}, {'symbol': 'TWTR', 'title': 'Twitter'}, {'symbol': 'TRIP', 'title': 'Tripadvisor Inc'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183148961,$dxc hope this spikes so I can jump in. I tried a few days ago and went straight down. Daddy didnt raise no bag holder....,2019-11-09 07:25:09,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-183125961,"$DXC i can&#39;t believe i just got back in here. It&#39;s like an abusive relationship with this thing. Maybe he&#39;s changed this time, tho!! 😂",2019-11-08 22:38:27,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+183125961,"$DXC i can&#39;t believe i just got back in here. It&#39;s like an abusive relationship with this thing. Maybe he&#39;s changed this time, tho!! ",2019-11-08 22:38:27,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183125037,PivotPoint bottom Signal Alert: $DXC. More insights: https://stockinvest.us/technical-analysis/DXC?utm_source=stocktwits&amp;utm_medium=autopost,2019-11-08 22:30:11,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183123195,$DXC Gap &amp; Go Monday,2019-11-08 22:15:01,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 183106706,$DXC NEW ARTICLE : DXC acquires Virtual Clarity https://dashboard.stck.pro/news.php?ticker=DXC&amp;rowid=812523 Get all the latest $DXC related news here : https://dashboard.stck.pro/news.php?ticker=DXC,2019-11-08 20:44:04,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2129,9 +2129,9 @@ https://seekingalpha.com/news/3517320",2019-11-08 20:34:04,none,"[{'symbol': 'DX
 182543945,"@dabig05 $DXC unsolicited advice: don’t hold DXC for long. Yes, they r too low, and can bounce or be bought in parts.  There are too many more better places for your money.",2019-11-05 15:50:57,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 182543643,$DXC just sold all calls from $27 last week. It must pull back before earning. Buy calls Thursday/Friday. Good luck to all,2019-11-05 15:49:36,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 182540489,$TVIX $SPY Bought some $DXC today. Made $ on $UGAZ,2019-11-05 15:34:27,none,"[{'symbol': 'SPY', 'title': 'SPDR S&P 500'}, {'symbol': 'TVIX', 'title': 'VelocityShares Daily 2x VIX ST ETN'}, {'symbol': 'UGAZ', 'title': 'VelocityShares 3x Long Natural Gas ETN'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-182533601,"$DXC Easy hold!!! Scaled out a bit too much IMO, But will re add on any major dips! 🤞📈",2019-11-05 15:05:10,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+182533601,"$DXC Easy hold!!! Scaled out a bit too much IMO, But will re add on any major dips! ",2019-11-05 15:05:10,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 182532383,$DXC im so happy,2019-11-05 15:00:41,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-182532042,$DXC sold $27 put for next week and somebody bought it 😂😂,2019-11-05 14:59:30,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+182532042,$DXC sold $27 put for next week and somebody bought it ,2019-11-05 14:59:30,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 182505425,$DXC please move 5% again today,2019-11-05 11:34:34,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 182501937,Daily news snapshot for $DXC https://wsfriend.com/daily/news/DXC/2019-11-05/,2019-11-05 09:20:03,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 182467118,$DXC NEW ARTICLE : DXC acquires consulting firm Bluleader https://dashboard.stck.pro/news.php?ticker=DXC&amp;rowid=623094,2019-11-04 22:10:56,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2225,7 +2225,7 @@ source: finscreener",2019-10-23 20:33:19,none,"[{'symbol': 'CBS', 'title': 'CBS 
 181199224,$DXC beastmode,2019-10-23 15:44:00,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 181198952,$DXC no official earnings announcement. Maybe buyout is pending...,2019-10-23 15:42:28,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 181149373,$DXC held support nicely in a deep red market.,2019-10-23 04:18:25,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-181099272,$DXC big news will come sooner or later... will push this silly price 😉,2019-10-22 19:14:58,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+181099272,$DXC big news will come sooner or later... will push this silly price ,2019-10-22 19:14:58,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 181077035,$DXC way to hold baby! ER will be huge directional factor here... praying for a beat!!!,2019-10-22 16:51:21,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 181058613,"$DXC 3.7m ago: DXC Technology Increases Presence in Conway Creating a Global Center of Excellence in Medicaid Services and Adding 1,200 Tech Jobs http://www.businesswire.com/news/home/20191022005443/en/DXC-Technology-Increases-Presence-Conway-Creating-Global/",2019-10-22 15:03:39,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 181058064,"$DXC DXC Technology Increases Presence in Conway Creating a Global Center of Excellence in Medicaid Services and Adding 1,200 Tech Jobs: Governor Asa Hutchinson was joined by executives from DXC Technology and a crowd of community members in announci.. https://newsfilter.io/articles/dxc-technology-increases-presence-in-conway-creating-a-global-center-of-excellence-in-medicaid-servi-f6776a77e0cc12ea8a6f135b48ed9c06",2019-10-22 15:00:53,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2279,7 +2279,7 @@ DXC Technology Co (NYSE:DXC) Short Interest Down 8.3% in September
 https://slatersentinel.com/news/2019/10/15/dxc-technology-co-nysedxc-short-interest-down-8-3-in-september.html",2019-10-16 12:54:36,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 180471503,"$DXC 
 
-Well, Citigroup initiated “Buy” rating with price target 🎯 of $47. 
+Well, Citigroup initiated “Buy” rating with price target  of $47. 
 DXC can go over $100. Agree?",2019-10-15 23:26:44,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 180469623,$DXC over 29.00 tomorrow.,2019-10-15 23:00:17,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 180462833,$DXC bought back in to this train wreck. Let&#39;s see if it can hold some gains so I can recoup my previous losses. I won&#39;t get my hopes up this time...,2019-10-15 21:36:52,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2294,7 +2294,7 @@ source: finscreener",2019-10-15 18:56:17,none,"[{'symbol': 'CBS', 'title': 'CBS 
 180412971,$DXC stop loss triggered. Nice swing from 27.50...bought $SPY Puts,2019-10-15 15:23:14,none,"[{'symbol': 'SPY', 'title': 'SPDR S&P 500'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 180408864,"$DXC Glancy Prongay &amp; Murray Reminds Investors of Looming Deadline in the Class Action Lawsuit Against DXC Technology Company: Glancy Prongay &amp; Murray reminds investors of the upcoming November 15, 2019 deadline to file a lead plaintiff motion in the.. https://newsfilter.io/articles/glancy-prongay--murray-reminds-investors-of-looming-deadline-in-the-class-action-lawsuit-against-dxc-720258c3f863351f6ab28be43fad0735",2019-10-15 15:00:27,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 180403365,"$DXC 
-Citigroup initiated “Buy” rating. Price target 🎯 only $47.",2019-10-15 14:32:21,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+Citigroup initiated “Buy” rating. Price target  only $47.",2019-10-15 14:32:21,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 180337289,$DXC Sold Friday. Bought back in on the dip. Shorted $CRWD. Perfect day,2019-10-14 19:19:44,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'CRWD', 'title': 'CrowdStrike Holdings'}]"
 180326781,"With a PE of 3.44, the valuation of $DXC can be described as very cheap. https://www.chartmill.com/stock/quote/DXC/fundamental-analysis?key=ff8828dc-b83c-49ce-a9f9-fb7687d52f4f&amp;utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=VALUATION&amp;utm_campaign=social_tracking",2019-10-14 18:00:54,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 180312440,$DXC,2019-10-14 15:53:48,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2329,7 +2329,7 @@ https://www.techtimes.com/articles/245685/20191011/scientist-with-als-dr-peter-s
 180121067,$DXC 4.7m ago: DXC Technology Board Declares Quarterly Cash Dividend http://www.businesswire.com/news/home/20191011005248/en/DXC-Technology-Board-Declares-Quarterly-Cash-Dividend/,2019-10-11 12:34:40,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 180120687,"$DXC DXC Technology Board Declares Quarterly Cash Dividend: The Board of Directors of DXC Technology declared a regular quarterly dividend payment for the quarter ending September 30, 2019 of $0.21 per share on the company&#39;s Common Stock. The dividen.. https://newsfilter.io/articles/dxc-technology-board-declares-quarterly-cash-dividend-c5663cd9de7b3f7d288901d9957d54e9",2019-10-11 12:30:38,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 180085995,"$DXC 
-Lots of hirings around the world, people are needed to work for DXC so manny places in the world 🌍 🌎 🗺",2019-10-10 22:20:31,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+Lots of hirings around the world, people are needed to work for DXC so manny places in the world   ",2019-10-10 22:20:31,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 180040853,$DXC another great day,2019-10-10 16:58:11,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 180021303,"$PUMP $DXC $OLLI $FTCH DEADLINE ALERT for PUMP, DXC, OLLI, and FTCH: Law Offices of Howard G. Smith Reminds Investors of Class Actions on Behalf of Shareholders: Law Offices of Howard G. Smith reminds investors that class action lawsuits have been fi.. https://newsfilter.io/articles/deadline-alert-for-pump-dxc-olli-and-ftch-law-offices-of-howard-g-smith-reminds-investors-of-class-a-98ac1b26ad44c799c895cdd0a246af43",2019-10-10 15:00:26,none,"[{'symbol': 'PUMP', 'title': 'Propetro Holding Corp.'}, {'symbol': 'OLLI', 'title': 'Ollie’s Bargain Outlet Holdings'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'FTCH', 'title': 'Farfetch Ltd'}]"
 180021046,"The Vanguard Group just provided an update on share ownership of Everett SpinCo, Inc. http://www.conferencecalltranscripts.org/13G/summary2/?id=6908981 $DXC",2019-10-10 14:59:14,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2358,7 +2358,7 @@ https://www.dxc.technology/nce/press_releases/147508-dxc_technology_named_german
 179771249,$DXC piece of garbage. Love the rocket scientist analyst that dn grade at lows. lol. They should be fired. Why didn’t they dn grade  at 95 bucks.,2019-10-08 13:47:25,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 179768511,$DXC new 52wk low...,2019-10-08 13:32:31,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 179740934,$DXC just a terrible stock. Couldn&#39;t find a bottom if you threw it off a 500 ft cliff with a boulder strapped to it...,2019-10-08 01:41:21,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-179739472,"@Ah_shucKs Bit of a buyers strike on this one, it seems. Gotta love that JP Morgan PR downgrade on $DXC today from $45 to $44 😂",2019-10-08 01:10:11,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+179739472,"@Ah_shucKs Bit of a buyers strike on this one, it seems. Gotta love that JP Morgan PR downgrade on $DXC today from $45 to $44 ",2019-10-08 01:10:11,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 179736526,$DXC is this a real co? All it does is go down.,2019-10-08 00:13:15,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 179735884,"$TXT $VAL $PUMP $CADE $DXC LEAD PLAINTIFF DEADLINE: Johnson Fistel, LLP Encourages Investors to Contact the Firm: Johnson Fistel, announces that class action lawsuits have been commenced on behalf of shareholders of the publicly-traded companies list.. https://newsfilter.io/articles/lead-plaintiff-deadline-johnson-fistel-llp-encourages-investors-to-contact-the-firm-4d41226a4aad40ca1bf0d57af82893e9",2019-10-08 00:02:15,none,"[{'symbol': 'TXT', 'title': 'Textron Inc.'}, {'symbol': 'VAL', 'title': 'Valaris PLC'}, {'symbol': 'PUMP', 'title': 'Propetro Holding Corp.'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'CADE', 'title': 'Cadence Bancorp'}]"
 179714857,$HABT $BB $DXC 3 of the most  garbage stocks going to make new 52wk lows this week.,2019-10-07 19:51:51,Bearish,"[{'symbol': 'BB', 'title': 'BlackBerry'}, {'symbol': 'HABT', 'title': 'The Habit Restaurants'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2439,7 +2439,7 @@ Dear Mr. Salvino please act NOW.",2019-10-02 12:39:24,Bullish,"[{'symbol': 'DXC'
 179190664,$DXC prayers up,2019-10-01 19:31:04,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 179185469,"$DXC With a PE of 4, I really didn’t expect this to drop below high $28s. Stocks like to push people beyond their breaking point before turning.",2019-10-01 18:57:53,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 179170893,$DXC overall market is down guys give it some time,2019-10-01 17:35:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-179160097,$DXC I am literally bleeding so bad here 😂😭,2019-10-01 16:31:51,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+179160097,$DXC I am literally bleeding so bad here ,2019-10-01 16:31:51,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 179146245,"$DXC new HR with Accenture background, interesting fact..",2019-10-01 15:13:02,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 179136699,$DXC i want to join up with one of these lawsuits at this point Hahahaha only shi*!,2019-10-01 14:23:13,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 179119099,$DXC 4.2m ago: DXC Technology Appoints Mary Finch to Lead Global Human Resources http://www.businesswire.com/news/home/20191001005274/en/DXC-Technology-Appoints-Mary-Finch-Lead-Global/,2019-10-01 12:34:15,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2479,7 +2479,7 @@ $NIO $CNC $AVTR $FOXA $DXC
  
 +11 more results - stockbeep.com/nlsep26e",2019-09-26 21:00:59,none,"[{'symbol': 'AVTR', 'title': 'Avantor, Inc'}, {'symbol': 'CNC', 'title': 'Centene Corp.'}, {'symbol': 'NIO', 'title': 'NIO Inc.'}, {'symbol': 'FOXA', 'title': 'Twenty-First Century Fox Inc'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 178769870,"$DXC 
-Waiting for the new CEO to do something to bring the price up. 😉👍",2019-09-26 19:35:45,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+Waiting for the new CEO to do something to bring the price up. ",2019-09-26 19:35:45,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 178767916,"#SPX #Stocks with the best performance to 52 week high: $NKTR $DXC $ABMD $M $CXO 
 source: finscreener",2019-09-26 19:24:55,none,"[{'symbol': 'ABMD', 'title': 'Abiomed Inc.'}, {'symbol': 'NKTR', 'title': 'Nektar Therapeutics'}, {'symbol': 'CXO', 'title': 'Concho Resources, Inc.'}, {'symbol': 'M', 'title': ""Macy's, Inc.""}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 178761271,"$DXC woah, alrighty then.",2019-09-26 18:44:27,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2574,7 +2574,7 @@ Amazing buying opportunity",2019-09-18 15:42:56,Bullish,"[{'symbol': 'DXC', 'tit
 177831279,@RICKxPHDCFA @jayanthony11 no sustained gains until an Earnings release that at least meets consensus alongside confirmed guidance $DXC,2019-09-17 20:05:44,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177787824,"$DXC I’m in, looking for a good swing chance here..",2019-09-17 15:10:58,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177778999,$DXC am adding more.. for long investment,2019-09-17 14:16:52,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-177777938,$DXC oversold again. 🙄,2019-09-17 14:11:11,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+177777938,$DXC oversold again. ,2019-09-17 14:11:11,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177775640,$DXC I may need to add... good price &amp; promising company,2019-09-17 13:58:04,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177755312,$DXC had approximately 21M USD go to the short side at 31 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2019-09-17 06:45:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177747621,"$DXC Glancy Prongay &amp; Murray announces that it has filed a class action lawsuit in the United States District Court for the Northern District of California captioned Costanzo v. DXC Technology Company et al.,, on behalf of persons and entities that purchased or otherwise acquired DXC Technology Comp.. https://newsfilter.io/articles/glancy-prongay--murray-llp-files-securities-class-action-on-behalf-of-dxc-technology-company-investo-6e9336c5b251ad0f3fb363f96f718c10",2019-09-17 02:18:06,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2590,7 +2590,7 @@ Bought 169763 of Common Stock at price 0 on 2019-09-12.  https://s.flashalert.me
 Undervalued + Buy recommendations 
 Do not short DXC if you don’t wish to lose all your investment money to rich lenders and rich banks!
 Wishing you all the best,
-Love you all ❤️❤️❤️❤️",2019-09-16 20:55:48,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+Love you all ",2019-09-16 20:55:48,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177719504,"TOP 10 #SPX Target Price and Potential: $NKTR $CPRI $DXC $CNC $CXO   
 source: finscreener",2019-09-16 19:59:51,none,"[{'symbol': 'NKTR', 'title': 'Nektar Therapeutics'}, {'symbol': 'CNC', 'title': 'Centene Corp.'}, {'symbol': 'CXO', 'title': 'Concho Resources, Inc.'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'CPRI', 'title': 'Capri Holdings Ltd'}]"
 177710568,"$DXC: Press Release published article on September 16, 14:51:00: Riassunto: DXC Technology annuncia un concorso per le startup per promuov https://s.flashalert.me/hfXnEE",2019-09-16 18:55:29,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2602,7 +2602,7 @@ source: finscreener",2019-09-16 18:55:15,none,"[{'symbol': 'ABMD', 'title': 'Abi
 177663519,$DXC need this above $39 in 6 months,2019-09-16 13:13:38,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177662333,$DXC 2.6m ago: DXC Technology Announces Competition for Startups to Drive Insurance Industry Innovation http://www.businesswire.com/news/home/20190916005128/en/DXC-Technology-Announces-Competition-Startups-Drive-Insurance/,2019-09-16 13:02:36,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177655424,DXC Technology&#39;s hold rating reiterated at Evercore ISI. https://www.marketbeat.com/r/1268561 $DXC,2019-09-16 11:31:20,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-177642992,$DXC Bullish (few dollars up?) 😉👍👍,2019-09-16 02:19:19,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+177642992,$DXC Bullish (few dollars up?) ,2019-09-16 02:19:19,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177617190,"$DXC: Press Release published article on September 12, 07:10:00: Samenvatting: DXC Technology benoemt Mike Salvino tot president en algeme https://s.flashalert.me/5AadF",2019-09-15 14:55:45,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177614960,"$DXC: Press Release published article on September 12, 07:10:00: Samenvatting: DXC Technology benoemt Mike Salvino tot president en algeme https://s.flashalert.me/iGuOeR",2019-09-15 13:25:32,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177592794,"$DXC: Comparing the growth rate of the last 5 years to the rate of the upcoming 2 years, we see that the growth ... https://www.chartmill.com/analyze.php?utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=GROWTH&amp;utm_campaign=social_tracking#/DXC?view=fundamental-analysis&amp;key=ff8828dc-b83c-49ce-a9f9-fb7687d52f4f",2019-09-14 17:57:08,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2611,7 +2611,7 @@ source: finscreener",2019-09-16 18:55:15,none,"[{'symbol': 'ABMD', 'title': 'Abi
 177584728,"$DXC 
 
 Dear family and friends,
-Cover your short positions immediately as you will simply lose everything!!!! You are not going to just lose all your investment money but you will lose much much more and you won’t be able to afford this!!! This is a simple example of short squeeze trap by rich lenders and rich banks!!! GET OUT OF YOUR SHORT POSITIONS NOW!!!!! OMG 😲😥",2019-09-14 13:32:27,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+Cover your short positions immediately as you will simply lose everything!!!! You are not going to just lose all your investment money but you will lose much much more and you won’t be able to afford this!!! This is a simple example of short squeeze trap by rich lenders and rich banks!!! GET OUT OF YOUR SHORT POSITIONS NOW!!!!! OMG ",2019-09-14 13:32:27,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177581632,$DXC had approximately 26M go to the short side at 25 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2019-09-14 10:17:35,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177578845,"$DXC if it slumps to 30$, will add more, otherwise, cruisin.",2019-09-14 05:41:43,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177566007,@DeepCoverDub you think  $DXC is overvalued?,2019-09-13 22:59:00,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2633,7 +2633,7 @@ Cover your short positions immediately as you will simply lose everything!!!! Yo
 177474321,$DXC had approximately 137M go to the short side at 33 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=DXC,2019-09-13 10:12:32,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177472853,"$DXC 
 Dear family members and dear friends,
-This is a short squeeze trap by rich lenders and rich banks as they will steal all your hard earned money and you will owe them much more!!!! You will lose everything including your stock market career!!! Do COVER your short positions NOW BEFORE TOO LATE!!!! This will NOT end up good for any shorts!!!!!! Tomorrow WILL BE TOO LATE!!!!!!!!! Love you all ❤️❤️❤️❤️",2019-09-13 09:03:45,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+This is a short squeeze trap by rich lenders and rich banks as they will steal all your hard earned money and you will owe them much more!!!! You will lose everything including your stock market career!!! Do COVER your short positions NOW BEFORE TOO LATE!!!! This will NOT end up good for any shorts!!!!!! Tomorrow WILL BE TOO LATE!!!!!!!!! Love you all ",2019-09-13 09:03:45,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177471641,$DXC why would the old CEO buy shares if he&#39;s about the retire? normally they would dump it.,2019-09-13 07:36:17,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177470076,$DXC Great callout this morning! GJ everyone.,2019-09-13 05:53:57,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177462203,$DXC over management... need to cut headcount by at least 10-15%,2019-09-13 01:57:38,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2718,7 +2718,7 @@ Thank you.",2019-09-12 16:20:39,none,"[{'symbol': 'DXC', 'title': 'DXC Technolog
 177399281,$DXC ..,2019-09-12 15:54:22,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177398958,$DXC homerun at this level!! Love it! And thank you!!!,2019-09-12 15:51:59,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177398957,"$DXC Told ya, don&#39;t sell in a couple months!",2019-09-12 15:51:59,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-177397769,$DXC Not gonna even lie. I just loaded the fucking boat boys and girls‼️,2019-09-12 15:43:37,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+177397769,$DXC Not gonna even lie. I just loaded the fucking boat boys and girls,2019-09-12 15:43:37,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177396844,$DXC,2019-09-12 15:37:14,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177396814,$DXC just doubled my position here. BIG gains 12 months out,2019-09-12 15:37:06,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 177396380,"Breakdown stocks in the morning 
@@ -2803,7 +2803,7 @@ source: finscreener",2019-09-10 16:00:14,none,"[{'symbol': 'NKTR', 'title': 'Nek
 176523260,$DXC  BusinessWire: Law Offices of Howard G. Smith announces an investigation on behalf of DXC Technology Company investors concerning the Company and its officers’ possible violations of federal securities laws. https://newsfilter.io/articles/investor-alert-law-offices-of-howard-g-smith-announces-investigation-on-behalf-of-dxc-technology-company-investors-ffa98f9ebf704a809416a734a2a83fab,2019-09-06 23:45:24,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 176512942,$DXC 20-Sep-19 ATM Implied Vol Jumps +22.9%. Straddle Implies a Move of ±7.2% http://tinyurl.com/yxn82xy3,2019-09-06 21:07:28,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 176484791,$DXC come on 75$,2019-09-06 17:41:15,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-176481273,$DXC 😄,2019-09-06 17:14:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+176481273,$DXC ,2019-09-06 17:14:39,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 176473345,$DXC Option Order Flow Sentiment has Turned from Bearish to Bullish. http://tinyurl.com/y2vql8v2,2019-09-06 16:20:08,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 176429935,$DXC saw a change of 3.78 pct at 48 pct short  Bears and Bulls are fighting close  https://www.algowins.com/?wdt_column_filter[1]=DXC,2019-09-06 08:31:17,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 176398048,Largest MOC BUYS $EXC $DXC $BABA $IVQ $MRK,2019-09-05 21:09:00,none,"[{'symbol': 'EXC', 'title': 'Exelon Corp.'}, {'symbol': 'MRK', 'title': 'Merck & Co. Inc.'}, {'symbol': 'BABA', 'title': 'Alibaba'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -2869,7 +2869,7 @@ Bought 6500 of Common Stock at price 0 on 2019-08-20.  https://s.flashalert.me/z
 174898081,"$DXC (+0.0% pre) DXC Partners Google Cloud $GOOGL to Aid Clients&#39; Cloud Migration - Nasdaq
 
 http://ooc.bz/l/40879",2019-08-21 12:48:28,none,"[{'symbol': 'GOOGL', 'title': 'Alphabet Inc. Class A'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-174894700,$DXC just waiting to get back to my cost basis of $53 😂😩,2019-08-21 12:20:16,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+174894700,$DXC just waiting to get back to my cost basis of $53 ,2019-08-21 12:20:16,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 174887951,$DXC $NOW 2.5m ago: DXC Technology Extends its Leading Service Management and Security Operations Capabilities with Acquisition of Syscom http://www.businesswire.com/news/home/20190821005037/en/DXC-Technology-Extends-Leading-Service-Management-Security/,2019-08-21 11:02:30,none,"[{'symbol': 'NOW', 'title': 'ServiceNow'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 174882490,Daily news snapshot for $DXC https://wsfriend.com/daily/news/DXC/2019-08-21/,2019-08-21 06:50:41,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 174870508,"Every day I pick 2-5 stocks - the most undervalued stocks in AMEX, NYSE &amp; NASDAQ with lowest RSI and other technical analysis (200-day moving average action and volume change), to trade for the next day. Below is yesterday&#39;s picks P/L. 
@@ -3030,7 +3030,7 @@ https://tickeron.com/app/newsSearch?utm_source=share_free&amp;utm_medium=news&am
 173662381,Technical analysis of #DXCTechnology #DXC $DXC source: finscreener https://www.finscreener.com/tittech/technical-analysis?&amp;cp=40834,2019-08-10 00:32:17,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 173659982,Here&#39;s the deal with $DXC https://iwatchmarkets.com/2019/08/09/dxc-technology-company-dxc-stock-heres-why-its-down/,2019-08-09 23:51:39,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 173657560,"So $FLNT $DXC $ASUR $DBX all &quot;beat&quot; earnings on revenue + EPS and all went down -37%, -30%, -26%, -13% respectively today? What a joke. Well played, MMs..",2019-08-09 23:14:02,none,"[{'symbol': 'ASUR', 'title': 'Asure Software, Inc.'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'DBX', 'title': 'Dropbox'}, {'symbol': 'FLNT', 'title': 'Fluent, Inc.'}]"
-173655822,Part2: Bouncing or hit from its new 52 weeks low 📖👀here are some set ups no position only watching 📖👀🤔 $CISN $XBIO $DXC $NKTR $TRUE,2019-08-09 22:48:23,none,"[{'symbol': 'NKTR', 'title': 'Nektar Therapeutics'}, {'symbol': 'TRUE', 'title': 'TrueCar'}, {'symbol': 'XBIO', 'title': 'Xenetic Biosciences Inc'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'CISN', 'title': 'Cision Ltd'}]"
+173655822,Part2: Bouncing or hit from its new 52 weeks low here are some set ups no position only watching  $CISN $XBIO $DXC $NKTR $TRUE,2019-08-09 22:48:23,none,"[{'symbol': 'NKTR', 'title': 'Nektar Therapeutics'}, {'symbol': 'TRUE', 'title': 'TrueCar'}, {'symbol': 'XBIO', 'title': 'Xenetic Biosciences Inc'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'CISN', 'title': 'Cision Ltd'}]"
 173655657,"DXC Technology (DXC, $36.31) misses Q2 earnings estimates, and issues lower-than-expected full-year guidance $DXC $CTSH $ACN View odds for this and other indicators:
 https://tickeron.com/app/newsSearch?utm_source=share_free&amp;utm_medium=news&amp;utm_campaign=BLOG_POST&amp;class=stocks#!/news-detail/712700",2019-08-09 22:45:35,none,"[{'symbol': 'CTSH', 'title': 'Cognizant Technology Solutions Corp.'}, {'symbol': 'ACN', 'title': 'Accenture plc'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 173653120,"$DXC 52wk low 34.60
@@ -3138,11 +3138,11 @@ Bought 10000 of Common Stock at price 49.5617 on 2019-08-06.  https://s.flashale
 If it drops bottom ; I will buy low and sell high",2019-08-08 21:39:24,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 173510044,"$DXC is great
 
-Greedy from hedge funds; I will buy low more😂😂🤭👍",2019-08-08 21:29:05,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+Greedy from hedge funds; I will buy low more",2019-08-08 21:29:05,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 173509821,$DXC,2019-08-08 21:27:46,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 173508842,"$DXC misses the Estimize EPS Consensus by 1c and beats the Estimize Revenue Consensus by $20.67M. Reports FQ1 earnings of $1.74 EPS and...
 http://www.estimize.com/dxc/fq1-2020?utm_content=beat_or_miss&amp;utm_medium=tweet&amp;utm_source=stocktwits",2019-08-08 21:22:21,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-173508831,$DXC is greedy from hedge funds and insider traders. They are dumping shares after earning release; it is big market capitalization; it drops more; I will buy.👍👍👍👍,2019-08-08 21:22:18,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+173508831,$DXC is greedy from hedge funds and insider traders. They are dumping shares after earning release; it is big market capitalization; it drops more; I will buy.,2019-08-08 21:22:18,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 173507815,"$DXC earnings are out!! - Get Chart, Ratings, Trade Ideas https://stockhoot.com/EarningsCalendar.aspx?from=AfterEarningsTweet&amp;symbol=DXC&amp;t=824&amp;Social=StockTwits",2019-08-08 21:17:04,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 173507771,$DXC what’s the news that dropped this ?? specifics,2019-08-08 21:16:46,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 173507725,$DXC i got HAMMERED here holy shit. I’m down a so much Hahahaha this sucks,2019-08-08 21:16:31,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -3752,7 +3752,7 @@ I’ll update in a bit.",2019-02-07 23:43:21,none,"[{'symbol': 'COLM', 'title': 
 153129798,DXC +3.7% on Q3 beats $DXC http://bit.ly/2DhMktN,2019-02-07 22:05:49,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 153128183,$DXC / DXC Technology files form 8-K https://fintel.io/s/us/dxc,2019-02-07 21:53:49,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 153126235,$DXC just filed a Earnings Release and a Financial Exhibit https://last10k.com/sec-filings/dxc/0001688568-19-000006.htm?utm_source=stocktwits&amp;utm_medium=forum&amp;utm_campaign=8K&amp;utm_term=dxc,2019-02-07 21:39:34,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-153124569,$DXC beat on eps and rev 👍,2019-02-07 21:28:47,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+153124569,$DXC beat on eps and rev ,2019-02-07 21:28:47,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 153124206,"$DXC 11.7m ago: DXC Technology Delivers Sequential Growth in Revenue, Bookings, EBIT and Earnings per Share http://www.businesswire.com/news/home/20190207005870/en/DXC-Technology-Delivers-Sequential-Growth-Revenue-Bookings/",2019-02-07 21:26:42,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 153124151,"$DXC 2.3m ago: SEC 8-K Current event(s) report - Results of Operations and Financial Condition, Financial Statements and ... https://www.sec.gov/Archives/edgar/data/1688568/000168856819000006/earningsrelease8k.htm",2019-02-07 21:26:24,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 153124141,"$DXC reported earnings of $2.23, consensus was $2.04 via @eWhispers #epsbeat http://eps.sh/d/dxc",2019-02-07 21:26:19,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -4005,13 +4005,13 @@ https://youtu.be/_PxR-wlTD2E",2018-11-20 01:33:10,none,"[{'symbol': 'DXC', 'titl
 145543460,Short sale volume (not short interest) for $DXC on 2018-11-16 is 39%. http://shortvolumes.com/?t=DXC via @shortvolumes,2018-11-17 14:49:36,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 145538548,Our main scores upgrade today: $CMCSA $RY $FOX $EOG $TSLA $ORAN $CHU $CM $TRI $DXC $TAL $HRS $WAT $TECK $FAST,2018-11-17 10:38:33,none,"[{'symbol': 'CMCSA', 'title': 'Comcast Corporation'}, {'symbol': 'FAST', 'title': 'Fastenal Co.'}, {'symbol': 'CHU', 'title': 'China Unicom (Hong Kong) Limited'}, {'symbol': 'CM', 'title': 'Canadian Imperial Bank of Commerce'}, {'symbol': 'EOG', 'title': 'EOG Resources, Inc.'}, {'symbol': 'ORAN', 'title': 'Orange'}, {'symbol': 'HRS', 'title': 'Harris Corp.'}, {'symbol': 'RY', 'title': 'Royal Bank of Canada'}, {'symbol': 'TAL', 'title': 'TAL Education Group, Inc.'}, {'symbol': 'TECK', 'title': 'Teck Resources Limited'}, {'symbol': 'TRI', 'title': 'Thomson Reuters Corporation'}, {'symbol': 'WAT', 'title': 'Waters Corp.'}, {'symbol': 'TSLA', 'title': 'Tesla, Inc.'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 145538529,Our IT scores upgrade today: $DXC $HRS $SYMC $MANH $AYX $AEIS $SSTK $SOHU $PSDO $CRAY $MODN $AVID,2018-11-17 10:37:30,none,"[{'symbol': 'AEIS', 'title': 'Advanced Energy Industries, Inc.'}, {'symbol': 'AVID', 'title': 'Avid Technology Inc.'}, {'symbol': 'CRAY', 'title': 'Cray Inc.'}, {'symbol': 'MANH', 'title': 'Manhattan Associates, Inc.'}, {'symbol': 'SOHU', 'title': 'Sohu.com Inc.'}, {'symbol': 'SYMC', 'title': 'Symantec Corporation'}, {'symbol': 'HRS', 'title': 'Harris Corp.'}, {'symbol': 'SSTK', 'title': 'Shutterstock, Inc.'}, {'symbol': 'MODN', 'title': 'Model N, Inc.'}, {'symbol': 'AYX', 'title': 'Alteryx'}, {'symbol': 'PSDO', 'title': 'PRESIDIO, INC.'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-145430578,$DXC ☕️🖖,2018-11-16 14:25:16,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+145430578,$DXC ️,2018-11-16 14:25:16,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 145423350,11/16 52-Week Lo Watch List: $EWW $EQT $PCG $EMB $GRPN $KORS $RIOT $Z $SN $ECA $MDXG $AGNC $CELG $AR $SYF $LQD $WFT $STZ $DXC $CAG $CC $CLDR,2018-11-16 13:38:41,none,"[{'symbol': 'AGNC', 'title': 'American Capital Agency Corp.'}, {'symbol': 'CELG', 'title': 'Celgene Corporation'}, {'symbol': 'CAG', 'title': 'ConAgra Foods, Inc.'}, {'symbol': 'OVV', 'title': 'Encana Corporation'}, {'symbol': 'EMB', 'title': 'iShares JPMorgan USD Emerg Markets Bond'}, {'symbol': 'EQT', 'title': 'EQT Corporation'}, {'symbol': 'EWW', 'title': 'iShares MSCI Mexico Investable Mkt Idx'}, {'symbol': 'LQD', 'title': 'iShares iBoxx $ Invest Grade Corp Bond'}, {'symbol': 'PCG', 'title': 'PG & E Corp.'}, {'symbol': 'STZ', 'title': 'Constellation Brands Inc.'}, {'symbol': 'WFT', 'title': 'Weatherford International Ltd.'}, {'symbol': 'Z', 'title': 'Zillow Class C'}, {'symbol': 'GRPN', 'title': 'Groupon'}, {'symbol': 'CLDR', 'title': 'Cloudera'}, {'symbol': 'KORS', 'title': 'Michael Kors Holdings Ltd'}, {'symbol': 'SN', 'title': 'Sanchez Energy Corp'}, {'symbol': 'MDXG', 'title': 'Mimedx Group'}, {'symbol': 'AR', 'title': 'Antero Resources'}, {'symbol': 'SYF', 'title': 'Synchrony Financial'}, {'symbol': 'CC', 'title': 'Chemours Co'}, {'symbol': 'RIOT', 'title': 'Riot Blockchain Inc'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 145320331,$DXC ranks 872 by short volume at 39 pct The Bears are few  https://www.algowins.com/?wdt_column_filter[2]=DXC,2018-11-15 18:44:33,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 145271960,Technical analysis of #DXCTechnology #DXC $DXC https://www.finscreener.com/tittech/technical-analysis?&amp;cp=40834,2018-11-15 14:54:26,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 145169488,$DXC lots of trading activity today. Ready to bounce?,2018-11-14 20:08:51,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 145139418,i have three stocks $BHC $FEYE and $DXC that are just itching for better mkt conditions,2018-11-14 17:47:39,none,"[{'symbol': 'BHC', 'title': 'Bausch Health Cos. Inc.'}, {'symbol': 'FEYE', 'title': 'FireEye Inc'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-145136559,$DXC Man I shoulda stayed away from this POS 😤,2018-11-14 17:34:15,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+145136559,$DXC Man I shoulda stayed away from this POS ,2018-11-14 17:34:15,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 145097107,$DXC whole week at 62,2018-11-14 14:54:29,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 145004823,$DXC Way oversold. Will pop 100%,2018-11-13 20:42:41,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144907561,$DXC has a very good Piotroski-F score of 9.00. This indicates great health and profitability. https://www.chartmill.com/analyze.php?utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=PROFITABILITY&amp;utm_campaign=social_tracking#/DXC?r=fa&amp;key=ff8828dc-b83c-49ce-a9f9-fb7687d52f4f,2018-11-13 08:56:56,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -4020,12 +4020,12 @@ https://youtu.be/_PxR-wlTD2E",2018-11-20 01:33:10,none,"[{'symbol': 'DXC', 'titl
 144763559,$DXC “DXC Technology Co has a twelve month low of $60.05 and a twelve month high of $107.85.”,2018-11-12 01:01:02,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144738732,$DXC&#39;s Return On Assets of 6.43% is amongst the best of the industry. https://www.chartmill.com/analyze.php?utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=PROFITABILITY&amp;utm_campaign=social_tracking#/DXC?r=fa&amp;key=ff8828dc-b83c-49ce-a9f9-fb7687d52f4f,2018-11-11 09:49:56,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144703120,$DXC shows a strong growth in Revenue. Over the last 5 years it has been growing by 22.55% yearly. https://www.chartmill.com/analyze.php?utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=GROWTH&amp;utm_campaign=social_tracking#/DXC?r=fa&amp;key=ff8828dc-b83c-49ce-a9f9-fb7687d52f4f,2018-11-10 10:14:57,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-144602288,$DXC Today is Investors Day 🤝,2018-11-09 15:31:42,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+144602288,$DXC Today is Investors Day ,2018-11-09 15:31:42,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144591273,"$DXC here are analyst PT changes post weak ER. All lower, but no-one really throwing in the towel",2018-11-09 14:49:13,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144565223,$DXC has a Return On Assets of 6.36%. This is better than the industry average of -1.59%. https://www.chartmill.com/analyze.php?utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=PROFITABILITY&amp;utm_campaign=social_tracking#/DXC?r=fa&amp;key=ff8828dc-b83c-49ce-a9f9-fb7687d52f4f,2018-11-09 10:41:57,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144563971,$DXC ranks 649 by short volume at 45 pct The Bears are few  https://www.algowins.com/?wdt_column_filter[2]=DXC,2018-11-09 09:33:17,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-144535783,$DXC $80 Next Week ?! 🔋,2018-11-08 23:42:00,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-144478683,$DXC In with $65 Calls ✈️,2018-11-08 18:38:01,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+144535783,$DXC $80 Next Week ?! ,2018-11-08 23:42:00,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+144478683,$DXC In with $65 Calls ,2018-11-08 18:38:01,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144476803,"Unusual put buying: $UUP 37x average volume, $XRAY 32x, $KORS 20x, $DXC 20x, $EWH 15x, $TJX 11x, $FOSL 11x, $GRPN 10x",2018-11-08 18:27:09,none,"[{'symbol': 'FOSL', 'title': 'Fossil, Inc.'}, {'symbol': 'XRAY', 'title': 'DENTSPLY International Inc.'}, {'symbol': 'EWH', 'title': 'iShares MSCI Hong Kong Index'}, {'symbol': 'TJX', 'title': 'The TJX Companies, Inc.'}, {'symbol': 'UUP', 'title': 'PowerShares DB US Dollar Index Bullish'}, {'symbol': 'GRPN', 'title': 'Groupon'}, {'symbol': 'KORS', 'title': 'Michael Kors Holdings Ltd'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144449169,Last10K.com highlighted 43 positive and negative remarks in $DXC&#39;s 10-Q filed today. See them in the Quarterly Report: https://www.last10k.com/sec-filings/DXC/0001688568-18-000133.htm#fullReport?utm_source=stocktwits&amp;utm_medium=forum&amp;utm_campaign=sentiment&amp;utm_term=dxc,2018-11-08 16:00:32,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144428780,"Everett SpinCo, Inc. Just Filed Its Quarterly Report: Earnings per Share B... http://www.conferencecalltranscripts.org/Q/summary2/?id=5466986 $DXC",2018-11-08 14:37:23,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -4042,7 +4042,7 @@ https://youtu.be/_PxR-wlTD2E",2018-11-20 01:33:10,none,"[{'symbol': 'DXC', 'titl
 144335836,$DXC Investor day tomorrow,2018-11-07 20:35:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144332288,#earnings #movers $CNDT $SEND $CTMX $BWXT $GHDX $DPLO $TWLO $Z $ZG $ETSY $AMSC $RCM $PRMW $COTY $DXC $DF $BOLD $GLUU http://eps.sh/r,2018-11-07 20:18:45,none,"[{'symbol': 'AMSC', 'title': 'American Superconductor Corporation'}, {'symbol': 'GHDX', 'title': 'Genomic Health Inc.'}, {'symbol': 'GLUU', 'title': 'Glu Mobile, Inc.'}, {'symbol': 'DF', 'title': 'Dean Foods Co.'}, {'symbol': 'ETSY', 'title': 'Etsy'}, {'symbol': 'Z', 'title': 'Zillow Class C'}, {'symbol': 'PRMW', 'title': 'Primo Water Corporation'}, {'symbol': 'COTY', 'title': 'Coty Inc.'}, {'symbol': 'TWLO', 'title': 'Twilio'}, {'symbol': 'DPLO', 'title': 'Diplomat Pharmacy'}, {'symbol': 'CTMX', 'title': 'CytomX'}, {'symbol': 'ZG', 'title': 'Zillow Class A'}, {'symbol': 'BWXT', 'title': 'BWX Technologies'}, {'symbol': 'BOLD', 'title': 'Audentes Therapeutics'}, {'symbol': 'CNDT', 'title': 'Conduent Inc'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'RCM', 'title': 'R1 RCM Inc.'}, {'symbol': 'SEND', 'title': 'SendGrid'}]"
 144327156,11/7 Unusual Option Volume Watch List: $UUP $KORS $DXC $GRPN $MDXG $NBL $TWLO $CL $Z $DVA $MTCH $ETSY $TTWO $TJX $COTY $IBM $HEAR,2018-11-07 19:54:06,none,"[{'symbol': 'TTWO', 'title': 'Take-Two Interactive Software Inc.'}, {'symbol': 'CL', 'title': 'Colgate-Palmolive Co.'}, {'symbol': 'DVA', 'title': 'DaVita, Inc.'}, {'symbol': 'IBM', 'title': 'International Business Machines Corp.'}, {'symbol': 'NBL', 'title': 'Noble Energy, Inc.'}, {'symbol': 'TJX', 'title': 'The TJX Companies, Inc.'}, {'symbol': 'UUP', 'title': 'PowerShares DB US Dollar Index Bullish'}, {'symbol': 'ETSY', 'title': 'Etsy'}, {'symbol': 'Z', 'title': 'Zillow Class C'}, {'symbol': 'GRPN', 'title': 'Groupon'}, {'symbol': 'KORS', 'title': 'Michael Kors Holdings Ltd'}, {'symbol': 'HEAR', 'title': 'Turtle Beach Corp'}, {'symbol': 'COTY', 'title': 'Coty Inc.'}, {'symbol': 'TWLO', 'title': 'Twilio'}, {'symbol': 'MDXG', 'title': 'Mimedx Group'}, {'symbol': 'MTCH', 'title': 'Match Group'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-144315026,$DXC Very Oversold 🔄 Time to buy Calls ?,2018-11-07 18:46:40,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+144315026,$DXC Very Oversold  Time to buy Calls ?,2018-11-07 18:46:40,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144312588,$DXC Down 32% the last Month Anyone see this making it’s way back to the $90’s in December ?!,2018-11-07 18:33:01,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144309116,$DXC earnings move  -14.9% vs an expected ±9.6% move  http://tinyurl.com/ybn7x5b6,2018-11-07 18:12:13,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144295567,$DXC Heavy trading DXC Tech options as shares fall on earnings,2018-11-07 16:55:50,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -4058,8 +4058,8 @@ https://youtu.be/_PxR-wlTD2E",2018-11-20 01:33:10,none,"[{'symbol': 'DXC', 'titl
 144261232,"Favs: $TWLO over 82.50, $ETSY over 46, $FIVN over 43, $DXC under 65, $MTCH under 44, $DLPH under 19.75!",2018-11-07 14:26:07,none,"[{'symbol': 'ETSY', 'title': 'Etsy'}, {'symbol': 'DLPH', 'title': 'Delphi Automotive Plc'}, {'symbol': 'TWLO', 'title': 'Twilio'}, {'symbol': 'FIVN', 'title': 'Five9'}, {'symbol': 'MTCH', 'title': 'Match Group'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144257165,"Long Watches: $TWLO, $TLRY, $ETSY, $APC, $ARRS, $FIVN, $NBL, $V, $SQ! Short Watches: $ZG, $Z, $MB, $KORS, $DXC, $MTCH, $DLPH!",2018-11-07 14:01:31,none,"[{'symbol': 'ARRS', 'title': 'Arris Group Inc.'}, {'symbol': 'APC', 'title': 'Anadarko Petroleum Corporation'}, {'symbol': 'NBL', 'title': 'Noble Energy, Inc.'}, {'symbol': 'V', 'title': 'Visa, Inc.'}, {'symbol': 'SQ', 'title': 'Square'}, {'symbol': 'ETSY', 'title': 'Etsy'}, {'symbol': 'Z', 'title': 'Zillow Class C'}, {'symbol': 'DLPH', 'title': 'Delphi Automotive Plc'}, {'symbol': 'KORS', 'title': 'Michael Kors Holdings Ltd'}, {'symbol': 'TWLO', 'title': 'Twilio'}, {'symbol': 'FIVN', 'title': 'Five9'}, {'symbol': 'MB', 'title': 'MindBody'}, {'symbol': 'ZG', 'title': 'Zillow Class A'}, {'symbol': 'MTCH', 'title': 'Match Group'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'TLRY', 'title': 'Tilray, Inc.'}]"
 144256949,"#9at9 
-⬆️ $XOG $TWLO $ARRS $DVA $APC $NBL $DATA $VIRT $QEP 
-⬇️ $KORS $COTY $MTCH $JAZZ $WEN $DXC $COMM $SMG $GDDY @marketscholars",2018-11-07 13:59:53,none,"[{'symbol': 'ARRS', 'title': 'Arris Group Inc.'}, {'symbol': 'DATA', 'title': 'Tableau Software'}, {'symbol': 'JAZZ', 'title': 'Jazz Pharmaceuticals, Inc.'}, {'symbol': 'APC', 'title': 'Anadarko Petroleum Corporation'}, {'symbol': 'DVA', 'title': 'DaVita, Inc.'}, {'symbol': 'NBL', 'title': 'Noble Energy, Inc.'}, {'symbol': 'SMG', 'title': 'The Scotts Miracle-Gro Co.'}, {'symbol': 'WEN', 'title': ""The Wendy's Company""}, {'symbol': 'QEP', 'title': 'QEP Resources, Inc.'}, {'symbol': 'KORS', 'title': 'Michael Kors Holdings Ltd'}, {'symbol': 'COTY', 'title': 'Coty Inc.'}, {'symbol': 'TWLO', 'title': 'Twilio'}, {'symbol': 'COMM', 'title': 'commScope'}, {'symbol': 'VIRT', 'title': 'Virtu Financial'}, {'symbol': 'GDDY', 'title': 'GoDaddy Group'}, {'symbol': 'MTCH', 'title': 'Match Group'}, {'symbol': 'XOG', 'title': 'Extraction Oil & Gas'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+ $XOG $TWLO $ARRS $DVA $APC $NBL $DATA $VIRT $QEP 
+ $KORS $COTY $MTCH $JAZZ $WEN $DXC $COMM $SMG $GDDY @marketscholars",2018-11-07 13:59:53,none,"[{'symbol': 'ARRS', 'title': 'Arris Group Inc.'}, {'symbol': 'DATA', 'title': 'Tableau Software'}, {'symbol': 'JAZZ', 'title': 'Jazz Pharmaceuticals, Inc.'}, {'symbol': 'APC', 'title': 'Anadarko Petroleum Corporation'}, {'symbol': 'DVA', 'title': 'DaVita, Inc.'}, {'symbol': 'NBL', 'title': 'Noble Energy, Inc.'}, {'symbol': 'SMG', 'title': 'The Scotts Miracle-Gro Co.'}, {'symbol': 'WEN', 'title': ""The Wendy's Company""}, {'symbol': 'QEP', 'title': 'QEP Resources, Inc.'}, {'symbol': 'KORS', 'title': 'Michael Kors Holdings Ltd'}, {'symbol': 'COTY', 'title': 'Coty Inc.'}, {'symbol': 'TWLO', 'title': 'Twilio'}, {'symbol': 'COMM', 'title': 'commScope'}, {'symbol': 'VIRT', 'title': 'Virtu Financial'}, {'symbol': 'GDDY', 'title': 'GoDaddy Group'}, {'symbol': 'MTCH', 'title': 'Match Group'}, {'symbol': 'XOG', 'title': 'Extraction Oil & Gas'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 144256668,"$DXC (-6.9% pre) DXC Technology (DXC) Tops Q2 EPS by 8c, Revenues Miss - SI
 
 http://ooc.bz/l/30068",2018-11-07 13:57:44,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -4115,7 +4115,7 @@ $CPE $DVA $MRK $BLDR $DXC $EA $CZR $HAIN $FXI $CMCSA $ALB $KO $CVE $IBM $PFE $AO
 142667428,short interest ratio of $DXC is 3.30 at 2018-09-28 and short % to float is 1.88% http://sunshineavenue.com/stock/DXC/ via @sunshineave,2018-10-25 08:27:36,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 142658655,$DXC resignation *,2018-10-25 03:33:05,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 142658616,$DXC somebody explain why this thing cratered from the resipof an executive?,2018-10-25 03:32:23,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-142653199,"My unusually short WL for tonight👀🤷🏻‍♂️ 
+142653199,"My unusually short WL for tonight 
 
 $LAD 
 $TUP 
@@ -4123,10 +4123,10 @@ $LRN
 $ZIXI 
 $NDLS 
 $DXC 
-Currently holding $LRN PUTS 💰
+Currently holding $LRN PUTS 
 #BullishAF 
 
-¡Stay tuned📡",2018-10-25 02:19:46,none,"[{'symbol': 'ZIXI', 'title': 'Zix Corp.'}, {'symbol': 'LAD', 'title': 'Lithia Motors Inc.'}, {'symbol': 'LRN', 'title': 'K12, Inc.'}, {'symbol': 'TUP', 'title': 'Tupperware Brands Corporation'}, {'symbol': 'NDLS', 'title': 'Noodles & Company'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+¡Stay tuned",2018-10-25 02:19:46,none,"[{'symbol': 'ZIXI', 'title': 'Zix Corp.'}, {'symbol': 'LAD', 'title': 'Lithia Motors Inc.'}, {'symbol': 'LRN', 'title': 'K12, Inc.'}, {'symbol': 'TUP', 'title': 'Tupperware Brands Corporation'}, {'symbol': 'NDLS', 'title': 'Noodles & Company'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 142648237,$DXC for 10/24 ranks 112 by short vol at 27% of regular https://www.algowins.com/?wdt_column_filter%5B2%5D=DXC,2018-10-25 01:27:07,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 142647806,$DXC will the truth be out soon?,2018-10-25 01:22:30,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 142638525,$DXC $6.8 billion of mkt cap erased today on NOTHING financial!!  Sales guy of America’s left plus they reiterated upper end of guidance,2018-10-24 23:57:54,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -4203,7 +4203,7 @@ https://247wallst.com/investing/2018/10/24/micron-texas-instruments-plunge-into-
 140514224,50 DMA Support today: $INTU $PTC $DXC ... https://swingtradebot.com/alerts/35-50-dma-support,2018-10-08 20:14:56,none,"[{'symbol': 'INTU', 'title': 'Intuit Inc.'}, {'symbol': 'PTC', 'title': 'PTC Inc'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 140406457,"$DXC option volume was 3X normal on Friday with 3,927 contracts. Call volume was 96% and put volume was 4%. http://tinyurl.com/ya7jwbtf",2018-10-08 02:47:20,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 140385200,Call Activity $DATA $DB $DBVT $DBX $DE $DHI $DIS $DKS $DUK $DVA $DVN $DWDP $DXC $DXCM $DY $EA $EBAY $EDU $EPD $EQR $ERI $ESPR $ETFC $ETP $EW,2018-10-07 16:49:44,none,"[{'symbol': 'DATA', 'title': 'Tableau Software'}, {'symbol': 'DXCM', 'title': 'DexCom, Inc.'}, {'symbol': 'EBAY', 'title': 'eBay Inc.'}, {'symbol': 'EA', 'title': 'Electronic Arts Inc.'}, {'symbol': 'ETFC', 'title': 'E*TRADE Financial Corporation'}, {'symbol': 'DB', 'title': 'Deutsche Bank AG'}, {'symbol': 'DE', 'title': 'Deere & Company'}, {'symbol': 'DHI', 'title': 'DR Horton Inc.'}, {'symbol': 'DIS', 'title': 'Walt Disney Co.'}, {'symbol': 'DKS', 'title': ""Dick's Sporting Goods Inc.""}, {'symbol': 'DUK', 'title': 'Duke Energy Corporation'}, {'symbol': 'DVA', 'title': 'DaVita, Inc.'}, {'symbol': 'DVN', 'title': 'Devon Energy Corporation'}, {'symbol': 'DY', 'title': 'Dycom Industries Inc.'}, {'symbol': 'EDU', 'title': 'New Oriental Education & Technology Group'}, {'symbol': 'EPD', 'title': 'Enterprise Products Partners LP'}, {'symbol': 'EQR', 'title': 'Equity Residential'}, {'symbol': 'ETP', 'title': 'Energy Transfer Partners L.P.'}, {'symbol': 'EW', 'title': 'Edwards Lifesciences Corp.'}, {'symbol': 'DBVT', 'title': 'DBV Technologies'}, {'symbol': 'ESPR', 'title': 'Esperion Therapeutics Inc.'}, {'symbol': 'ERI', 'title': 'Eldorado Resorts'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'DWDP', 'title': 'DowDupont Inc.'}, {'symbol': 'DBX', 'title': 'Dropbox'}]"
-140315955,$DXC Is the Dip Over is it Safe to Buy now ?🤔,2018-10-05 22:15:01,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+140315955,$DXC Is the Dip Over is it Safe to Buy now ?,2018-10-05 22:15:01,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 140041468,DXC Technology initiated by Moffett Nathanson at buy. $95.00 PT. https://www.marketbeat.com/r/1093441 $DXC,2018-10-04 14:11:20,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 140017975,"$DXC MoffettNathanson initiates as a buy, $95PT https://stocknews.com/news/dxc-moffettnathanson-initiates-as-a-buy-95pt/",2018-10-04 12:34:49,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 139852530,"$DXC
@@ -4700,7 +4700,7 @@ Transaction Code:
 127232973,$DXC Market Positioning is Slightly Underweight. CrowdThnk&#39;s Algo forecasts 100% chance Moving Higher: https://crowdthnk.com/stocks/DXC,2018-06-18 11:59:46,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 127198626,$DXC Anyone have the latest news leak?,2018-06-17 15:53:57,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 127188826,"$DXC option volume was 6X normal on Friday with 17,279 contracts. Call volume was 3% and put volume was 97%. http://tinyurl.com/ya85qcjj",2018-06-17 04:39:56,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-127178247,"💪FRIDAY&#39;S SIZE SPREADS &amp; COMBOS: $F $C $DXC $BURL $YPF $HST $BMRN $MS $EA 
+127178247,"FRIDAY&#39;S SIZE SPREADS &amp; COMBOS: $F $C $DXC $BURL $YPF $HST $BMRN $MS $EA 
 
 WALLSTJESUS.COM",2018-06-16 21:54:06,none,"[{'symbol': 'BMRN', 'title': 'BioMarin Pharmaceutical Inc.'}, {'symbol': 'EA', 'title': 'Electronic Arts Inc.'}, {'symbol': 'C', 'title': 'Citigroup, Inc.'}, {'symbol': 'F', 'title': 'Ford Motor Co.'}, {'symbol': 'HST', 'title': 'Host Hotels & Resorts Inc.'}, {'symbol': 'MS', 'title': 'Morgan Stanley'}, {'symbol': 'YPF', 'title': 'YPF S.A.'}, {'symbol': 'BURL', 'title': 'Burlington Stores Inc.'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 127166910,The short sale volume (not short interest) for $DXC on 2018-06-15 is 32%. http://shortvolumes.com/?t=DXC via @shortvolumes,2018-06-16 16:01:37,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -4724,7 +4724,7 @@ https://wallmine.com/nyse/dxc?utm_source=stocktwits",2018-06-12 15:08:22,none,"[
 https://wallmine.com/nyse/dxc?utm_source=stocktwits",2018-06-11 15:11:24,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 126392324,"#DXC $DXC 0.02% of floating shares of #DxcTechnology are being shorted 
 https://wallmine.com/nyse/dxc?utm_source=stocktwits",2018-06-10 15:01:28,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-126345730,"$PRSP $DXC lol don’t listen to me, fine by me honestly. Long via the ex-div 🤷‍♂️💁‍♀️🙄",2018-06-09 02:00:46,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'PRSP', 'title': 'Perspecta Inc.'}]"
+126345730,"$PRSP $DXC lol don’t listen to me, fine by me honestly. Long via the ex-div ",2018-06-09 02:00:46,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'PRSP', 'title': 'Perspecta Inc.'}]"
 126294199,$DXC no volume,2018-06-08 17:30:14,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 126261489,"$DXC 5th day of try, can it break through 85 today?",2018-06-08 14:34:33,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 126252607,"$DXC Price moved higher this week, matching CrowdThnk&#39;s forecast based on Positioning: https://crowdthnk.com/stocks/DXC",2018-06-08 13:55:34,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -4799,9 +4799,9 @@ Transaction Code: M
 125441528,$DXC Morgan Stanley cuts PT to $101 from $114 https://stocknews.com/news/dxc-morgan-stanley-cuts-pt-to-101-from-114/,2018-06-01 13:24:58,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 125441072,$DXC  You should have bought it on May 25. You would have gotten one share of PSRP for every share of DXC you bought.,2018-06-01 13:22:10,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 125438037,"$DXC...Short swing on overbought conditions/200dma overhead resistance...Entry $94.90, covered partial $80.88",2018-06-01 13:02:15,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-125436867,"‪📈 $NUE $DAN $AMD $MU $BAC $CIEN $SYF $LYB $NAVI ‬
+125436867,"‪ $NUE $DAN $AMD $MU $BAC $CIEN $SYF $LYB $NAVI ‬
 
-‪📉 $DXC $BIG $ULTA $FULT $SMG $WYNN $CTL $COST $MGM‬
+‪ $DXC $BIG $ULTA $FULT $SMG $WYNN $CTL $COST $MGM‬
 
 #9at9 @marketscholars",2018-06-01 12:55:03,none,"[{'symbol': 'CIEN', 'title': 'CIENA Corp.'}, {'symbol': 'COST', 'title': 'Costco Wholesale Corporation'}, {'symbol': 'FULT', 'title': 'Fulton Financial Corp.'}, {'symbol': 'NAVI', 'title': 'Navient'}, {'symbol': 'ULTA', 'title': 'Ulta Salon, Cosmetics & Fragrance, Inc.'}, {'symbol': 'WYNN', 'title': 'Wynn Resorts Ltd.'}, {'symbol': 'AMD', 'title': 'Advanced Micro Devices, Inc.'}, {'symbol': 'BAC', 'title': 'Bank of America Corporation'}, {'symbol': 'BIG', 'title': 'Big Lots Inc.'}, {'symbol': 'CTL', 'title': 'CenturyLink, Inc.'}, {'symbol': 'DAN', 'title': 'Dana Holding Corporation'}, {'symbol': 'MGM', 'title': 'MGM Resorts International'}, {'symbol': 'MU', 'title': 'Micron Technology Inc.'}, {'symbol': 'NUE', 'title': 'Nucor Corporation'}, {'symbol': 'SMG', 'title': 'The Scotts Miracle-Gro Co.'}, {'symbol': 'LYB', 'title': 'LyondellBasell Industries NV'}, {'symbol': 'SYF', 'title': 'Synchrony Financial'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 125434129,DXC Technology&#39;s PT cut by Morgan Stanley to $101.00. overweight rating. http://www.marketbeat.com/r/1031805 $DXC,2018-06-01 12:35:12,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -4958,7 +4958,7 @@ Transaction Code: M
 123888700,"$DXC just filed a New Agreement, a New Financial Obligation and a Financial Exhibit https://www.last10k.com/sec-filings/dxc/0001688568-18-000028.htm?utm_source=stocktwits&amp;utm_medium=forum&amp;utm_campaign=8K&amp;utm_term=dxc",2018-05-17 20:41:10,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 123888231,$DXC files form 8-K https://fintel.io/s/us/dxc,2018-05-17 20:38:38,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 123797216,$DXC Weak Px action after CrowdThnk&#39;s forecast of move lower based on Positioning Data: https://crowdthnk.com/stocks/DXC,2018-05-17 12:45:59,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-123758019,STRONG BUY RATED STOCKS $AB $CAL $FCAU $ENSG $CACC $V $DXC $SF $PHG ✅🚀✅,2018-05-16 23:39:05,Bullish,"[{'symbol': 'CACC', 'title': 'Credit Acceptance Corp.'}, {'symbol': 'ENSG', 'title': 'The Ensign Group, Inc.'}, {'symbol': 'AB', 'title': 'AllianceBernstein Holding L.P.'}, {'symbol': 'CAL', 'title': 'Caleres Inc'}, {'symbol': 'PHG', 'title': 'Koninklijke Philips Electronics NV'}, {'symbol': 'SF', 'title': 'Stifel Financial Corp.'}, {'symbol': 'V', 'title': 'Visa, Inc.'}, {'symbol': 'FCAU', 'title': 'FIAT CHRYSLER AUTOMOBILES N.V.'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+123758019,STRONG BUY RATED STOCKS $AB $CAL $FCAU $ENSG $CACC $V $DXC $SF $PHG ,2018-05-16 23:39:05,Bullish,"[{'symbol': 'CACC', 'title': 'Credit Acceptance Corp.'}, {'symbol': 'ENSG', 'title': 'The Ensign Group, Inc.'}, {'symbol': 'AB', 'title': 'AllianceBernstein Holding L.P.'}, {'symbol': 'CAL', 'title': 'Caleres Inc'}, {'symbol': 'PHG', 'title': 'Koninklijke Philips Electronics NV'}, {'symbol': 'SF', 'title': 'Stifel Financial Corp.'}, {'symbol': 'V', 'title': 'Visa, Inc.'}, {'symbol': 'FCAU', 'title': 'FIAT CHRYSLER AUTOMOBILES N.V.'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 123756696,"$DXC Since last ER, stock gained 11%. Reporting Earnings on 5/24 After Close (Confirmed). https://t.co/yNr7LqDTqm",2018-05-16 23:25:11,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 123731356,$HLF $UTX $LYB $AET $MRK $GE $BAC $BRK.B $CVX $RTN $ACN $MMM $CVS $VZ $DXC $DWDP $UNH $JPM $DIS $PM $UPS Largest MOC sells,2018-05-16 20:09:29,none,"[{'symbol': 'ACN', 'title': 'Accenture plc'}, {'symbol': 'AET', 'title': 'Aetna Inc.'}, {'symbol': 'BAC', 'title': 'Bank of America Corporation'}, {'symbol': 'CVS', 'title': 'CVS Caremark Corporation'}, {'symbol': 'CVX', 'title': 'Chevron Corp.'}, {'symbol': 'DIS', 'title': 'Walt Disney Co.'}, {'symbol': 'GE', 'title': 'General Electric Co.'}, {'symbol': 'HLF', 'title': 'Herbalife Ltd.'}, {'symbol': 'JPM', 'title': 'JPMorgan Chase & Co.'}, {'symbol': 'MMM', 'title': '3M Co.'}, {'symbol': 'MRK', 'title': 'Merck & Co. Inc.'}, {'symbol': 'PM', 'title': 'Philip Morris International, Inc.'}, {'symbol': 'RTN', 'title': 'Raytheon Co.'}, {'symbol': 'UNH', 'title': 'Unitedhealth Group, Inc.'}, {'symbol': 'UPS', 'title': 'United Parcel Service, Inc.'}, {'symbol': 'UTX', 'title': 'United Technologies Corp.'}, {'symbol': 'VZ', 'title': 'Verizon Communications Inc.'}, {'symbol': 'BRK.B', 'title': 'Berkshire Hathaway Inc.'}, {'symbol': 'LYB', 'title': 'LyondellBasell Industries NV'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'DWDP', 'title': 'DowDupont Inc.'}]"
 123460958,"$DXC 
@@ -4966,7 +4966,7 @@ Transaction Code: M
 https://www.businesswire.com/news/home/20180507006186/en/DXC-Technology-Sets-Record-Distribution-Dates-U.S.",2018-05-15 02:45:35,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 123399623,"$DXC out 103.50, not acting right-may revisit",2018-05-14 17:35:39,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 123358401,$DXC Market Positioning is Very Overweight. CrowdThnk&#39;s Algo forecasts 60% chance Moving Lower: https://crowdthnk.com/stocks/DXC,2018-05-14 13:12:31,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-123357771,$DXC 6.2m ago: DXC Technology Announces New Offering to Transition and Transform SAP® Solutions to Amazon Web Services http://www.enhancedonlinenews.com/news/eon/20180514005119/en/DXC-Technology-Announces-New-Offering-Transition-Transform/,2018-05-14 13:07:13,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+123357771,$DXC 6.2m ago: DXC Technology Announces New Offering to Transition and Transform SAP Solutions to Amazon Web Services http://www.enhancedonlinenews.com/news/eon/20180514005119/en/DXC-Technology-Announces-New-Offering-Transition-Transform/,2018-05-14 13:07:13,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 123336699,$DXC you’ve got to look at the value they’re creating!,2018-05-14 02:53:10,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 123336669,$DXC $130 stock soon,2018-05-14 02:52:22,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 123334420,"I just think it’s a no brainer, just look at the earnings estimates-$DXC",2018-05-14 01:59:14,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -5075,7 +5075,7 @@ $PBR $AVXS $IEF $BB $ALE $MU $DXC $IBN $MDXG $FEZ $JD",2018-04-17 20:02:19,none,
 118845545,"Options Bull - Buy of: $DXC June 115 Call - $GLW May 28 Call - $CELG July 90 Call - $KKR Jan. 20 - Unusual options 
  http://bit.ly/2q2XpJr",2018-04-05 01:08:30,none,"[{'symbol': 'CELG', 'title': 'Celgene Corporation'}, {'symbol': 'GLW', 'title': 'Corning Inc.'}, {'symbol': 'KKR', 'title': 'Kohlberg Kravis Roberts & Co.'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 118843631,Some of our most recent winners and losers include TSLA FTD UAA LEN CCS BBBY $DXC MTCH,2018-04-05 00:46:13,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-118819267,💰TODAY&#39;S BUY LINES: $ALB $BAC $MRK $TROX $PFE $PAY $MOS $MA $V $SYF $C $RIG $COP $GE $TS $BB $DXC $BP $KKR $GGP $CMCSA $CBL $IBM  WALLSTJESUS.COM,2018-04-04 21:00:53,none,"[{'symbol': 'CMCSA', 'title': 'Comcast Corporation'}, {'symbol': 'BB', 'title': 'BlackBerry'}, {'symbol': 'ALB', 'title': 'Albemarle Corp.'}, {'symbol': 'BAC', 'title': 'Bank of America Corporation'}, {'symbol': 'BP', 'title': 'BP plc'}, {'symbol': 'C', 'title': 'Citigroup, Inc.'}, {'symbol': 'CBL', 'title': 'CBL & Associates Properties Inc.'}, {'symbol': 'COP', 'title': 'ConocoPhillips'}, {'symbol': 'GE', 'title': 'General Electric Co.'}, {'symbol': 'GGP', 'title': 'General Growth Properties Inc.'}, {'symbol': 'IBM', 'title': 'International Business Machines Corp.'}, {'symbol': 'KKR', 'title': 'Kohlberg Kravis Roberts & Co.'}, {'symbol': 'MA', 'title': 'MasterCard Incorporated'}, {'symbol': 'MOS', 'title': 'Mosaic Co.'}, {'symbol': 'MRK', 'title': 'Merck & Co. Inc.'}, {'symbol': 'PAY', 'title': 'VeriFone Systems, Inc'}, {'symbol': 'PFE', 'title': 'Pfizer Inc.'}, {'symbol': 'RIG', 'title': 'Transocean Ltd.'}, {'symbol': 'TS', 'title': 'Tenaris SA'}, {'symbol': 'V', 'title': 'Visa, Inc.'}, {'symbol': 'TROX', 'title': 'Tronox Inc.'}, {'symbol': 'SYF', 'title': 'Synchrony Financial'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+118819267,TODAY&#39;S BUY LINES: $ALB $BAC $MRK $TROX $PFE $PAY $MOS $MA $V $SYF $C $RIG $COP $GE $TS $BB $DXC $BP $KKR $GGP $CMCSA $CBL $IBM  WALLSTJESUS.COM,2018-04-04 21:00:53,none,"[{'symbol': 'CMCSA', 'title': 'Comcast Corporation'}, {'symbol': 'BB', 'title': 'BlackBerry'}, {'symbol': 'ALB', 'title': 'Albemarle Corp.'}, {'symbol': 'BAC', 'title': 'Bank of America Corporation'}, {'symbol': 'BP', 'title': 'BP plc'}, {'symbol': 'C', 'title': 'Citigroup, Inc.'}, {'symbol': 'CBL', 'title': 'CBL & Associates Properties Inc.'}, {'symbol': 'COP', 'title': 'ConocoPhillips'}, {'symbol': 'GE', 'title': 'General Electric Co.'}, {'symbol': 'GGP', 'title': 'General Growth Properties Inc.'}, {'symbol': 'IBM', 'title': 'International Business Machines Corp.'}, {'symbol': 'KKR', 'title': 'Kohlberg Kravis Roberts & Co.'}, {'symbol': 'MA', 'title': 'MasterCard Incorporated'}, {'symbol': 'MOS', 'title': 'Mosaic Co.'}, {'symbol': 'MRK', 'title': 'Merck & Co. Inc.'}, {'symbol': 'PAY', 'title': 'VeriFone Systems, Inc'}, {'symbol': 'PFE', 'title': 'Pfizer Inc.'}, {'symbol': 'RIG', 'title': 'Transocean Ltd.'}, {'symbol': 'TS', 'title': 'Tenaris SA'}, {'symbol': 'V', 'title': 'Visa, Inc.'}, {'symbol': 'TROX', 'title': 'Tronox Inc.'}, {'symbol': 'SYF', 'title': 'Synchrony Financial'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 118724137,$DXC APR20 100P or 95P #swing *** (delayed alert),2018-04-04 13:34:06,Bearish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 118695085,$DXC 2.5m ago: DXC Technology Advances Position as a Leading Microsoft Dynamics 365 Global Independent Systems Integrator... http://www.enhancedonlinenews.com/news/eon/20180403006714/en/DXC-Technology-Advances-Position-Leading-Microsoft-Dynamics/,2018-04-04 05:03:27,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 118689252,DXC Technology downgraded by ValuEngine to buy. http://www.marketbeat.com/r/1000562 $DXC,2018-04-04 03:04:00,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -5176,7 +5176,7 @@ $DXC $HII $HUN $KSS $PFE",2018-03-07 13:54:23,none,"[{'symbol': 'HUN', 'title': 
 114642115,$DXC http://www.thestocksnews.com/2018/03/01/dxc-technology-company-dxcmarket-mover/,2018-03-01 13:37:17,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 114632879,$DXC files form 424B2 https://fintel.io/filings/us/dxc,2018-03-01 12:15:33,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 114471995,$DXC 4.9m ago: DXC Technology Unveils DXC Open Health Connect Platform Globally to Create a Connected Ecosystem for Bette... http://www.enhancedonlinenews.com/news/eon/20180228005597/en/DXC-Technology-Unveils-DXC-Open-Health-Connect/,2018-02-28 14:04:54,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-114463493,$DXC 6.8m ago: DXC Technology Unveils DXC Bionix™ to Provide Automated IT Services at Scale http://www.enhancedonlinenews.com/news/eon/20180228005288/en/DXC-Technology-Unveils-DXC-Bionix%E2%84%A2-Provide-Automated/,2018-02-28 13:06:50,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+114463493,$DXC 6.8m ago: DXC Technology Unveils DXC Bionix to Provide Automated IT Services at Scale http://www.enhancedonlinenews.com/news/eon/20180228005288/en/DXC-Technology-Unveils-DXC-Bionix%E2%84%A2-Provide-Automated/,2018-02-28 13:06:50,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 114419427,"Insider Nefkens Michael G reports  selling 39,448 shares of $DXC at $102.00 for a total cost of $4,023,696.00 https://fintel.io/n/us/dxc",2018-02-27 23:45:37,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 114403615,$DXC  Breakout didn’t last long !,2018-02-27 21:56:49,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 114251334,Short sell volume percent for $DXC at 2018-02-23 is 31%. http://shortvolumes.com/?t=DXC via @shortvolumes,2018-02-26 22:01:36,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -5350,7 +5350,7 @@ http://crweworld.com/article/news-provided-by-business-wire/206148/dxc-technolog
 107772173,Cantor Fitzgerald Sets DXC Technology FY2019 Earnings Estimates at $8.75 EPS. http://www.marketbeat.com/x/403953 $DXC,2018-01-05 23:54:13,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 107766251,"$DXC just now breaking out, check the fundies- CHEAP STOCK",2018-01-05 23:05:07,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 107764284,$DXC short ratio on 2017-12-15 is 3.84 and short % to float is 2.03% http://sunshineavenue.com/stock/DXC/ via @sunshineave,2018-01-05 22:49:29,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-107731668,$DXC happy 💯,2018-01-05 19:59:25,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+107731668,$DXC happy ,2018-01-05 19:59:25,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 107695320,Can These 4 Tech Stocks Retain Their Performance in 2018? $XLK http://bit.ly/2qsByhj $MU $DXC $LRCX $KLAC http://bit.ly/MuTTTS,2018-01-05 17:07:52,none,"[{'symbol': 'KLAC', 'title': 'KLA-Tencor Corporation'}, {'symbol': 'LRCX', 'title': 'Lam Research Corporation'}, {'symbol': 'MU', 'title': 'Micron Technology Inc.'}, {'symbol': 'XLK', 'title': 'Technology Select Sector SPDR'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 107639945,$DXC http://www.wallstreetmorning.com/2018/01/05/investors-alert-on-dxc-technology-company-dxc/,2018-01-05 11:42:16,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 107621784,"$DXC about a month ago, Stephene said she liked this to 130, and yet Cramer is taking some profits !",2018-01-05 04:32:48,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -5499,9 +5499,9 @@ https://www.cityfalcon.com/watchlists?assets=DXC,YUM,QCOM,EXAS,SBUX,KORS,TER,SLC
 100602089,$DXC Could this be a game changer for DXC Technology Company (DXC).  http://bit.ly/2hdk2WH,2017-11-08 13:01:09,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 100601847,"8 #premarket movers @ 8:00 am EST
 
-⬆️ $TTWO $COHR $SYNA $DXC 📈
+ $TTWO $COHR $SYNA $DXC 
 
-⬇️ $ATI $WEN $DVA $SBH 📉
+ $ATI $WEN $DVA $SBH 
 
 #8at8 #stocks $SPX $SPY",2017-11-08 12:59:02,none,"[{'symbol': 'SPX', 'title': 'S&P 500 Index'}, {'symbol': 'COHR', 'title': 'Coherent Inc.'}, {'symbol': 'SYNA', 'title': 'Synaptics Inc.'}, {'symbol': 'TTWO', 'title': 'Take-Two Interactive Software Inc.'}, {'symbol': 'ATI', 'title': 'Allegheny Technologies Inc.'}, {'symbol': 'DVA', 'title': 'DaVita, Inc.'}, {'symbol': 'SBH', 'title': 'Sally Beauty Holdings Inc.'}, {'symbol': 'SPY', 'title': 'SPDR S&P 500'}, {'symbol': 'WEN', 'title': ""The Wendy's Company""}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 100599861,$DXC yaaas queen,2017-11-08 12:40:59,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -5556,7 +5556,7 @@ Tighten stops in short $EURUSD positions.",2017-10-30 13:41:03,none,"[{'symbol':
  http://www.stockspinoffs.com/2017/10/27/spinoff-odds-ends-south-africa-spinoffs-david-einhorn-buys-hpe/ $DXC $MFGP",2017-10-27 12:40:30,none,"[{'symbol': 'HPE', 'title': 'Hewlett Packard Enterprise'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'MFGP', 'title': 'Micro Focus Intl ADR'}]"
 99181701,"$DXC There was great discussion on this last night, might be a good buy.",2017-10-26 19:12:59,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 99065825,6pm Press Releases $AAXN $AB $ABAX $ABBV $KRC $DUK $WPG $FTI $MWA $LILAK $LILA $FFWM $SJM $DXC $ISTR $SRCI $SKX $GG https://marketchameleon.com/PressReleases,2017-10-25 22:59:29,none,"[{'symbol': 'ABAX', 'title': 'Abaxis Inc.'}, {'symbol': 'AAXN', 'title': 'Axon '}, {'symbol': 'AB', 'title': 'AllianceBernstein Holding L.P.'}, {'symbol': 'DUK', 'title': 'Duke Energy Corporation'}, {'symbol': 'FTI', 'title': 'FMC Technologies, Inc.'}, {'symbol': 'GG', 'title': 'Goldcorp Inc.'}, {'symbol': 'KRC', 'title': 'Kilroy Realty Corp.'}, {'symbol': 'MWA', 'title': 'Mueller Water Products, Inc.'}, {'symbol': 'SJM', 'title': 'The J. M. Smucker Company'}, {'symbol': 'SKX', 'title': 'Skechers USA Inc.'}, {'symbol': 'ABBV', 'title': 'AbbVie Inc.'}, {'symbol': 'FFWM', 'title': 'First Foundation'}, {'symbol': 'LILAK', 'title': 'Liberty Global'}, {'symbol': 'LILA', 'title': 'Liberty Global'}, {'symbol': 'SRCI', 'title': 'SRC Energy Inc'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}, {'symbol': 'WPG', 'title': 'Washington Prime Group Inc'}]"
-98930376,"$DXC Ready for next leg up to 95-96 after ER, synergies well on track. USPS spin is value. Will hit 100 PT by Q4 ‘17 ER 🚂",2017-10-25 03:07:17,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+98930376,"$DXC Ready for next leg up to 95-96 after ER, synergies well on track. USPS spin is value. Will hit 100 PT by Q4 ‘17 ER ",2017-10-25 03:07:17,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 98853877,"Today&#39;s new strong buy stocks are: $LEA, $HIIQ, $DXC, $BURL, and $AVH. https://www.zacks.com/commentary/133253/new-strong-buy-stocks-for-october-24th",2017-10-24 17:49:31,none,"[{'symbol': 'LEA', 'title': 'Lear Corp.'}, {'symbol': 'BURL', 'title': 'Burlington Stores Inc.'}, {'symbol': 'AVH', 'title': 'Avianca Holdings'}, {'symbol': 'HIIQ', 'title': 'Health Insurance Innovations'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 98743930,"Senate Passes $4-Trillion Budget Blueprint: Top 5 Winners  https://buff.ly/2yJGVLj
 
@@ -5605,7 +5605,7 @@ $C $T $VZ $GM $SNAP $DXC $GLUU $JPM $DPZ $DKS $DIS",2017-10-13 13:08:34,none,"[{
 97736124,"DXC Technology Is &#39;One of the Cheapest Medium Caps Out There,&#39; Cramer Says $DXC http://dlvr.it/PvJtbM",2017-10-13 13:06:47,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 97731578,"$DXC technical alerts: Expansion Breakout, Gilligan&#39;s Island Sell Setup, Upper Bollinger Band Walk, New 52 Week Cl... https://swingtradebot.com/equities/DXC",2017-10-13 12:31:50,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 97725178,"DXC Technology Is &#39;One of the Cheapest Medium Caps Out There,&#39; Cramer Says $DXC http://dlvr.it/PvHkVS",2017-10-13 11:06:06,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-97695582,$dxc 💪. Very 💪.  Some monster estimates for 2018.  Got that superstar IPO look.  Buy n mold,2017-10-12 23:31:55,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+97695582,$dxc . Very .  Some monster estimates for 2018.  Got that superstar IPO look.  Buy n mold,2017-10-12 23:31:55,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 97663775,"Advancers: $GBTC, $AMZN, $CMG, $DXC, $FPRX, $SPAR, $W, $ARDX, $BLUE-Decliners: $HMNY, $BABA, $AAOI, $LULU, $HAWK, $GS, $ULTA, $BGNE, $FIZZ",2017-10-12 19:53:46,none,"[{'symbol': 'AMZN', 'title': 'Amazon.com Inc.'}, {'symbol': 'FIZZ', 'title': 'National Beverage Corp.'}, {'symbol': 'HMNY', 'title': 'Helios & Matheson Information T'}, {'symbol': 'LULU', 'title': 'Lululemon Athletica Inc.'}, {'symbol': 'SPAR', 'title': 'Spartan Motors Inc.'}, {'symbol': 'ULTA', 'title': 'Ulta Salon, Cosmetics & Fragrance, Inc.'}, {'symbol': 'CMG', 'title': 'Chipotle Mexican Grill, Inc.'}, {'symbol': 'GS', 'title': 'Goldman Sachs Group, Inc.'}, {'symbol': 'HAWK', 'title': 'Blackhawk Network Holdings Inc'}, {'symbol': 'BLUE', 'title': 'bluebird bio Inc.'}, {'symbol': 'FPRX', 'title': 'Five Prime Therapeutics, Inc.'}, {'symbol': 'ARDX', 'title': 'Ardelyx'}, {'symbol': 'BABA', 'title': 'Alibaba'}, {'symbol': 'W', 'title': 'Wayfair'}, {'symbol': 'AAOI', 'title': 'Applied Optoelectronics'}, {'symbol': 'GBTC', 'title': 'Grayscale Bitcoin Trust'}, {'symbol': 'BGNE', 'title': 'BeiGene'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 97625359,5-star analyst Darrin Peller from Barclays maintained a Buy on $DXC.  https://www.tipranks.com/analysts/darrin-peller,2017-10-12 16:48:01,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 97612707,$DXC BMO Capital raises PT to $105 from $100 https://stocknews.com/news/dxc-bmo-capital-raises-pt-to-105-from-100/,2017-10-12 15:46:12,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
@@ -5815,7 +5815,7 @@ $DIS $AAP $RL $EVHC $COH $ACAD $BHGE $FL $DKS $BBY",2017-10-12 13:06:08,none,"[{
 http://buff.ly/2tryJML",2017-07-25 05:25:37,none,"[{'symbol': 'ADSK', 'title': 'Autodesk, Inc.'}, {'symbol': 'FISV', 'title': 'Fiserv, Inc.'}, {'symbol': 'LRCX', 'title': 'Lam Research Corporation'}, {'symbol': 'PAYX', 'title': 'Paychex Inc.'}, {'symbol': 'SWKS', 'title': 'Skyworks Solutions Inc.'}, {'symbol': 'SYMC', 'title': 'Symantec Corporation'}, {'symbol': 'APH', 'title': 'Amphenol Corporation'}, {'symbol': 'GLW', 'title': 'Corning Inc.'}, {'symbol': 'RHT', 'title': 'Red Hat, Inc.'}, {'symbol': 'WDC', 'title': 'Western Digital Corp.'}, {'symbol': 'HPE', 'title': 'Hewlett Packard Enterprise'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 89735800,"Stocks that triggered a buy from our watch list today: $OA, $DOX, $PFG, $WLTW, $DXC,",2017-07-25 02:01:42,none,"[{'symbol': 'DOX', 'title': 'Amdocs Ltd.'}, {'symbol': 'PFG', 'title': 'Principal Financial Group Inc.'}, {'symbol': 'OA', 'title': 'Orbital ATK'}, {'symbol': 'WLTW', 'title': 'Willis Towers Watson'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 89733455,from 30 to 60 $TROX $SPEX $MITK $DFFN $DMPI $MSCC $DXC $MGTI $DXTR $APDN $NRG $BDSI $PIRS $ARCO $QDEL $STM $GILD $SRNE $AMD $TSLA $ATVI,2017-07-25 01:23:51,none,"[{'symbol': 'ATVI', 'title': 'Activision Blizzard, Inc.'}, {'symbol': 'BDSI', 'title': 'BioDelivery Sciences International Inc.'}, {'symbol': 'GILD', 'title': 'Gilead Sciences Inc.'}, {'symbol': 'MSCC', 'title': 'Microsemi Corp.'}, {'symbol': 'QDEL', 'title': 'Quidel Corp.'}, {'symbol': 'SPEX', 'title': 'Spherix Inc.'}, {'symbol': 'AMD', 'title': 'Advanced Micro Devices, Inc.'}, {'symbol': 'NRG', 'title': 'NRG Energy, Inc.'}, {'symbol': 'STM', 'title': 'STMicroelectronics NV'}, {'symbol': 'TSLA', 'title': 'Tesla, Inc.'}, {'symbol': 'ARCO', 'title': 'Arcos Dorados Holdings Inc. Cla'}, {'symbol': 'MITK', 'title': 'Mitek Systems, Inc.'}, {'symbol': 'TROX', 'title': 'Tronox Inc.'}, {'symbol': 'SRNE', 'title': 'Sorrento Therapeutics Inc.'}, {'symbol': 'PIRS', 'title': 'Pieris Pharmaceuticals'}, {'symbol': 'APDN', 'title': 'Applied DNA Sciences Inc. '}, {'symbol': 'DMPI', 'title': 'Delmar Pharmaceuticals'}, {'symbol': 'DFFN', 'title': 'Diffusion Pharmaceuticals Inc'}, {'symbol': 'DXTR', 'title': 'Dextera Surgical Inc.'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
-89701043,Also holding $DXC 18 AUG &#39;17 $85 Calls at .60 🤔,2017-07-24 19:42:12,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
+89701043,Also holding $DXC 18 AUG &#39;17 $85 Calls at .60 ,2017-07-24 19:42:12,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 89640554,"Morning folks. Here is our watch list for new buys today. $APO, $WD, $DOX, $FPG, $DXC, $SUM, $WLTW, $ITW, $WMIH, Ideal entry above 7/21 high",2017-07-24 13:18:55,none,"[{'symbol': 'APO', 'title': 'Apollo Global Management, LLC'}, {'symbol': 'DOX', 'title': 'Amdocs Ltd.'}, {'symbol': 'ITW', 'title': 'Illinois Tool Works Inc.'}, {'symbol': 'WD', 'title': 'Walker & Dunlop, LLC'}, {'symbol': 'SUM', 'title': 'Summit Materials'}, {'symbol': 'WMIH', 'title': 'WMIH Corp'}, {'symbol': 'WLTW', 'title': 'Willis Towers Watson'}, {'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 89608818,$DXC 15,2017-07-23 19:01:24,Bullish,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
 89598628,"$DXC We has a great discussion last night, looking for entry today.",2017-07-23 10:12:58,none,"[{'symbol': 'DXC', 'title': 'DXC Technology Rg'}]"
