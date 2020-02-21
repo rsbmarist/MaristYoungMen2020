@@ -1,4 +1,5 @@
 id,cleanSents,created,tag,newSymbols
+195898621,$HPE Hewlett Packard Enterprise Company Option Order Flow Sentiment has Turned from Bearish to Bullish. http://tinyurl.com/y2vs7pry,2020-02-21 05:06:10,none,"[{'symbol': 'HPE', 'title': 'Hewlett Packard Enterprise'}]"
 195849064,Your daily News digest for Hewlett Packard Enterprise $HPE https://wsfriend.com/daily/news/HPE/2020-02-20/,2020-02-20 22:03:29,none,"[{'symbol': 'HPE', 'title': 'Hewlett Packard Enterprise'}]"
 195843306,"TOP S&amp;P 500 Stocks with the highest Dividend Yield for Technology sector: $STX $IBM $AVGO $NTAP $HPE
 Source: finscreener",2020-02-20 21:38:38,none,"[{'symbol': 'NTAP', 'title': 'NetApp, Inc.'}, {'symbol': 'STX', 'title': 'Seagate Technology PLC'}, {'symbol': 'IBM', 'title': 'International Business Machines Corp.'}, {'symbol': 'AVGO', 'title': 'Broadcom'}, {'symbol': 'HPE', 'title': 'Hewlett Packard Enterprise'}]"
