@@ -1,4 +1,14 @@
 id,cleanSents,created,tag,newSymbols
+198013774,"$DELL gone... bye, good bye.",2020-03-03 20:36:05,none,"[{'symbol': 'DELL', 'title': 'Dell Inc.'}]"
+197969018,"$DELL 20-Mar-20 Straddle Implies a ±9.3% move. Mar 4 Morgan Stanley Technology, Media and Telecom Conference http://tinyurl.com/y5m4pprl",2020-03-03 17:54:30,none,"[{'symbol': 'DELL', 'title': 'Dell Inc.'}]"
+197946728,$DELL In what world is a 50bp rate cut not good for Dell? Huge,2020-03-03 16:31:47,none,"[{'symbol': 'DELL', 'title': 'Dell Inc.'}]"
+197885823,"$AMD $MSFT $DELL  repost
+Germany&#39;s Feb desktop sales.
+
+https://www.guru3d.com/news-story/86-of-desktop-processors-sold-in-february-in-germany-are-from-amd.html",2020-03-03 13:14:32,none,"[{'symbol': 'DELL', 'title': 'Dell Inc.'}, {'symbol': 'MSFT', 'title': 'Microsoft Corporation'}, {'symbol': 'AMD', 'title': 'Advanced Micro Devices, Inc.'}]"
+197859125,"$AMD $DELL $MSFT
+
+https://www.channelnews.com.au/global-videocard-sales-up-as-amd-increases-gpu-market-share/",2020-03-03 05:46:48,none,"[{'symbol': 'DELL', 'title': 'Dell Inc.'}, {'symbol': 'MSFT', 'title': 'Microsoft Corporation'}, {'symbol': 'AMD', 'title': 'Advanced Micro Devices, Inc.'}]"
 197749904,$DELL repeat call activity coming into Mar 20 contract 45 strike,2020-03-02 19:20:15,none,"[{'symbol': 'DELL', 'title': 'Dell Inc.'}]"
 197730982,"It’s the Dagger You Don’t See That Kills a Bull Market  $LEHMQ $DELL $CSCO 
 
