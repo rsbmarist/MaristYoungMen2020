@@ -101,29 +101,83 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
         
 	<div class="w3-row w3-center">
 		<div class="w3-container w3-center">
-		<h2 class="w3-text-indigo w3-center">Volume</h2>
-		<img src="C:\Users\Cameron\Documents\capping\MaristYoungMen2020\visualization\WebsitePNGs\IBMVolumeAllTime.png" style="width:550px;height:550px;">
+		<h2 class="w3-text-indigo w3-center">Performance(Volume and Price)</h2>
+		<div class="w3-row w3-center">
+			<h1 class="w3-center" id="title1"></h1>
+			<div class="w3-container w3-center w3-padding">
+				<div class="w3-quarter w3-col w3-center w3-padding-64">
+					<button id="volbutton1" class="button"></button>
+				</div>
+			
+				<div class="w3-half w3-col w3-center">
+					<img id="volimg" src="..\VM\visualization\WebsitePNGs\IBMVolumeLastWeek.png" style="width:100%;height:auto;">
+				</div>
+			
+				<div class="w3-quarter w3-col w3-center w3-padding-64">
+					<button id="volbutton2" class="button"></button>
+				</div>
+		    </div>
+		</div>
+		<div class="w3-row w3-center">
+			<h1 class="w3-center" id="pricetitle"></h1>
+			<div class="w3-container w3-center w3-padding">
+				<div class="w3-quarter w3-col w3-center w3-padding-64">
+					<button id="pricebutton1" class="button"></button>
+				</div>
+			
+				<div class="w3-half w3-col w3-center">
+					<img id="priceimg" src="..\VM\visualization\WebsitePNGs\IBMPriceLastWeek.png" style="width:100%;height:auto;">
+				</div>
+			
+				<div class="w3-quarter w3-col w3-center w3-padding-64">
+					<button id="pricebutton2" class="button"></button>
+				</div>
+		    </div>
+		</div>
 	    </div>
 	</div>
+
 	
-	
+	<div class="w3-container w3-center">
+		<h2 class="w3-text-indigo w3-center">Top Five Stocks Mentioned With IBM</h2>
+			<h1 class="w3-center" id="title2"></h1>
+			<div class="w3-row w3-center">
+				<div class="w3-half  w3-center w3-padding-top">
+					<button id="fivebutton1" class="button"></button>
+				</div>
+				<div class="w3-half w3-center w3-padding-top">
+					<button id="fivebutton2" class="button"></button>
+				</div>			
+			</div>
+	</div>
 	
 	<div class="w3-row w3-center">
-		<div class="w3-container w3-center">
-		<h2 class="w3-text-indigo w3-center">Five Other Companies Talked About</h2> 
-		<img src="C:\Users\Cameron\Documents\capping\MaristYoungMen2020\visualization\WebsitePNGs\IBMTopFiveOtherCompaniesAllTime.png" style="width:1050px;height:550px;">
-		
+		<div class="w3-center">
+			<img id="fiveimg" src="..\VM\visualization\WebsitePNGs\IBMTopFiveOtherCompaniesLastWeek.png" style="width:50%;height:auto">
 		</div>
 	</div>
 
+		   
+	
+	
+	<div class="w3-container w3-center">
+		<h2 class="w3-text-indigo w3-center">User Sentiment on Market Direction</h2>
+			<h1 class="w3-center" id="tagtitle"></h1>
+			<div class="w3-row w3-center">
+				<div class="w3-half  w3-center w3-padding-top">
+					<button id="tagbutton1" class="button"></button>
+				</div>
+				<div class="w3-half w3-center w3-padding-top">
+					<button id="tagbutton2" class="button"></button>
+				</div>			
+			</div>
+	</div>
+	
 	<div class="w3-row w3-center">
-		<div class="w3-container w3-center">
-		<h2 class="w3-text-indigo w3-center">Ten Other Companies Talked About</h2> 
-		<img src="C:\Users\Cameron\Documents\capping\MaristYoungMen2020\visualization\WebsitePNGs\IBMTopFiveOtherCompaniesAllTime.png" style="width:1050px;height:550px;">
-		
+		<div class="w3-center">
+			<img id="tagimg" src="..\VM\visualization\WebsitePNGs\IBMTagsLastWeek.png" style="width:50%;height:auto">
 		</div>
 	</div>
-
 
  
 
@@ -133,6 +187,428 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 </div>
 
 <script>
+var timetitle = ["Weekly", "Monthly" , "Yearly", "All Time"];
+
+document.getElementById("volbutton1").innerHTML = timetitle[3];
+
+document.getElementById("title1").innerHTML = timetitle[0];
+
+document.getElementById("volbutton2").innerHTML = timetitle[1];
+
+document.getElementById("volbutton1").addEventListener("click",changevolbutton1);
+
+document.getElementById("volbutton2").addEventListener("click",changevolbutton2);
+
+i=3;
+j=0;
+k=1;
+
+var volbutton1 = document.getElementById("volbutton1");
+volbutton1.innerHMTL = timetitle[i];
+    
+var title1 = document.getElementById("title1");
+title1.innerHTML = timetitle[j];
+    
+var volbutton2 = document.getElementById("volbutton2");
+volbutton2.innerHTML = timetitle[k];
+    
+function changevolbutton1(i,j,k) {
+
+
+    if(document.getElementById("volbutton1").innerHTML === timetitle[3]){
+    	i=2;
+        j=3;
+        k=0;
+        document.getElementById("volbutton1").innerHTML=timetitle[i];
+        document.getElementById("title1").innerHTML=timetitle[j];
+        document.getElementById("volbutton2").innerHTML=timetitle[k]; 
+		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/IBMVolumeAllTime.png";
+    }else if(document.getElementById("volbutton1").innerHTML === timetitle[2]){
+    	i=1;
+    	j=2;
+    	k=3;
+        document.getElementById("volbutton1").innerHTML=timetitle[i];
+        document.getElementById("title1").innerHTML=timetitle[j];
+        document.getElementById("volbutton2").innerHTML=timetitle[k];
+		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/IBMVolumeLastYear.png";
+    }else if (document.getElementById("volbutton1").innerHTML === timetitle[1]){
+    	i=0;
+        j=1;
+        k=2;
+        document.getElementById("volbutton1").innerHTML=timetitle[i];
+        document.getElementById("title1").innerHTML=timetitle[j];
+        document.getElementById("volbutton2").innerHTML=timetitle[k];
+		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/IBMVolumeLastMonth.png";
+
+    }else if (document.getElementById("volbutton1").innerHTML === timetitle[0]){
+    	i=3;
+        j=0;
+        k=1;
+        document.getElementById("volbutton1").innerHTML=timetitle[i];
+        document.getElementById("title1").innerHTML=timetitle[j];
+        document.getElementById("volbutton2").innerHTML=timetitle[k];
+		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/IBMVolumeLastWeek.png";
+    }
+    
+   
+}
+function changevolbutton2(i,j,k) {
+
+    
+    if(document.getElementById("volbutton2").innerHTML === timetitle[1]){
+    	i=0;
+        j=1;
+        k=2;
+        document.getElementById("volbutton1").innerHTML=timetitle[i];
+        document.getElementById("title1").innerHTML=timetitle[j];
+        document.getElementById("volbutton2").innerHTML=timetitle[k];
+		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/IBMVolumeLastMonth.png";
+        
+    }else if(document.getElementById("volbutton2").innerHTML === timetitle[2]){
+    	i=1;
+    	j=2;
+    	k=3;
+        document.getElementById("volbutton1").innerHTML=timetitle[i];
+        document.getElementById("title1").innerHTML=timetitle[j];
+        document.getElementById("volbutton2").innerHTML=timetitle[k];
+		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/IBMVolumeLastYear.png";
+
+    }else if (document.getElementById("volbutton2").innerHTML === timetitle[3]){
+    	i=2;
+        j=3;
+        k=0;
+        document.getElementById("volbutton1").innerHTML=timetitle[i];
+        document.getElementById("title1").innerHTML=timetitle[j];
+        document.getElementById("volbutton2").innerHTML=timetitle[k];
+		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/IBMVolumeAllTime.png";
+
+    }else if (document.getElementById("volbutton2").innerHTML === timetitle[0]){
+    	i=3;
+        j=0;
+        k=1;
+        document.getElementById("volbutton1").innerHTML=timetitle[i];
+        document.getElementById("title1").innerHTML=timetitle[j];
+        document.getElementById("volbutton2").innerHTML=timetitle[k];
+		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/IBMVolumeLastWeek.png";
+
+    }
+    
+   
+}
+document.getElementById("pricebutton1").innerHTML = timetitle[3];
+
+document.getElementById("pricetitle").innerHTML = timetitle[0];
+
+document.getElementById("pricebutton2").innerHTML = timetitle[1];
+
+document.getElementById("pricebutton1").addEventListener("click",changepricebutton1);
+
+document.getElementById("pricebutton2").addEventListener("click",changepricebutton2);
+
+var pricebutton1 = document.getElementById("pricebutton1");
+pricebutton1.innerHMTL = timetitle[i];
+    
+var pricetitle = document.getElementById("pricetitle");
+pricetitle.innerHTML = timetitle[j];
+    
+var pricebutton2 = document.getElementById("pricebutton2");
+pricebutton2.innerHTML = timetitle[k];
+    
+function changepricebutton1(i,j,k) {
+
+
+    if(document.getElementById("pricebutton1").innerHTML === timetitle[3]){
+    	i=2;
+        j=3;
+        k=0;
+        document.getElementById("pricebutton1").innerHTML=timetitle[i];
+        document.getElementById("pricetitle").innerHTML=timetitle[j];
+        document.getElementById("pricebutton2").innerHTML=timetitle[k]; 
+		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/IBMPriceAllTime.png";
+    }else if(document.getElementById("pricebutton1").innerHTML === timetitle[2]){
+    	i=1;
+    	j=2;
+    	k=3;
+        document.getElementById("pricebutton1").innerHTML=timetitle[i];
+        document.getElementById("pricetitle").innerHTML=timetitle[j];
+        document.getElementById("pricebutton2").innerHTML=timetitle[k];
+		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/IBMPriceLastYear.png";
+    }else if (document.getElementById("pricebutton1").innerHTML === timetitle[1]){
+    	i=0;
+        j=1;
+        k=2;
+        document.getElementById("pricebutton1").innerHTML=timetitle[i];
+        document.getElementById("pricetitle").innerHTML=timetitle[j];
+        document.getElementById("pricebutton2").innerHTML=timetitle[k];
+		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/IBMPriceLastMonth.png";
+
+    }else if (document.getElementById("pricebutton1").innerHTML === timetitle[0]){
+    	i=3;
+        j=0;
+        k=1;
+        document.getElementById("pricebutton1").innerHTML=timetitle[i];
+        document.getElementById("pricetitle").innerHTML=timetitle[j];
+        document.getElementById("pricebutton2").innerHTML=timetitle[k];
+		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/IBMPriceLastWeek.png";
+    }
+    
+   
+}
+function changepricebutton2(i,j,k) {
+
+    
+    if(document.getElementById("pricebutton2").innerHTML === timetitle[1]){
+    	i=0;
+        j=1;
+        k=2;
+        document.getElementById("pricebutton1").innerHTML=timetitle[i];
+        document.getElementById("pricetitle").innerHTML=timetitle[j];
+        document.getElementById("pricebutton2").innerHTML=timetitle[k];
+		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/IBMPriceLastMonth.png";
+        
+    }else if(document.getElementById("pricebutton2").innerHTML === timetitle[2]){
+    	i=1;
+    	j=2;
+    	k=3;
+        document.getElementById("pricebutton1").innerHTML=timetitle[i];
+        document.getElementById("pricetitle").innerHTML=timetitle[j];
+        document.getElementById("pricebutton2").innerHTML=timetitle[k];
+		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/IBMPriceLastYear.png";
+
+    }else if (document.getElementById("pricebutton2").innerHTML === timetitle[3]){
+    	i=2;
+        j=3;
+        k=0;
+        document.getElementById("pricebutton1").innerHTML=timetitle[i];
+        document.getElementById("pricetitle").innerHTML=timetitle[j];
+        document.getElementById("pricebutton2").innerHTML=timetitle[k];
+		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/IBMPriceAllTime.png";
+
+    }else if (document.getElementById("pricebutton2").innerHTML === timetitle[0]){
+    	i=3;
+        j=0;
+        k=1;
+        document.getElementById("pricebutton1").innerHTML=timetitle[i];
+        document.getElementById("pricetitle").innerHTML=timetitle[j];
+        document.getElementById("pricebutton2").innerHTML=timetitle[k];
+		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/IBMPriceLastWeek.png";
+
+    }
+    
+   
+}
+
+document.getElementById("fivebutton1").innerHTML = timetitle[3];
+
+document.getElementById("title2").innerHTML = timetitle[0];
+
+document.getElementById("fivebutton2").innerHTML = timetitle[1];
+
+document.getElementById("fivebutton1").addEventListener("click",changefivebutton1);
+
+document.getElementById("fivebutton2").addEventListener("click",changefivebutton2);
+
+l=3;
+m=0;
+n=1;
+
+var fivebutton1 = document.getElementById("fivebutton1");
+fivebutton1.innerHMTL = timetitle[l];
+    
+var title2 = document.getElementById("title2");
+title2.innerHTML = timetitle[m];
+    
+var fivebutton2 = document.getElementById("fivebutton2");
+fivebutton2.innerHTML = timetitle[n];
+    
+function changefivebutton1(l,m,n) {
+
+
+    if(document.getElementById("fivebutton1").innerHTML === timetitle[3]){
+    	l=2;
+        m=3;
+        n=0;
+        document.getElementById("fivebutton1").innerHTML=timetitle[l];
+        document.getElementById("title2").innerHTML=timetitle[m];
+        document.getElementById("fivebutton2").innerHTML=timetitle[n]; 
+		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/IBMTopFiveOtherCompaniesAllTime.png";
+    }else if(document.getElementById("fivebutton1").innerHTML === timetitle[2]){
+    	l=1;
+    	m=2;
+    	n=3;
+        document.getElementById("fivebutton1").innerHTML=timetitle[l];
+        document.getElementById("title2").innerHTML=timetitle[m];
+        document.getElementById("fivebutton2").innerHTML=timetitle[n];
+		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/IBMTopFiveOtherCompaniesLastYear.png";
+    }else if (document.getElementById("fivebutton1").innerHTML === timetitle[1]){
+    	l=0;
+        m=1;
+        n=2;
+        document.getElementById("fivebutton1").innerHTML=timetitle[l];
+        document.getElementById("title2").innerHTML=timetitle[m];
+        document.getElementById("fivebutton2").innerHTML=timetitle[n];
+		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/IBMTopFiveOtherCompaniesLastMonth.png";
+
+    }else if (document.getElementById("fivebutton1").innerHTML === timetitle[0]){
+    	l=3;
+        m=0;
+        n=1;
+        document.getElementById("fivebutton1").innerHTML=timetitle[l];
+        document.getElementById("title2").innerHTML=timetitle[m];
+        document.getElementById("fivebutton2").innerHTML=timetitle[n];
+		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/IBMTopFiveOtherCompaniesLastWeek.png";
+    }
+    
+   
+}
+function changefivebutton2(l,m,n) {
+
+    
+    if(document.getElementById("fivebutton2").innerHTML === timetitle[1]){
+    	l=0;
+        m=1;
+        n=2;
+        document.getElementById("fivebutton1").innerHTML=timetitle[l];
+        document.getElementById("title2").innerHTML=timetitle[m];
+        document.getElementById("fivebutton2").innerHTML=timetitle[n];
+		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/IBMTopFiveOtherCompaniesLastMonth.png";
+        
+    }else if(document.getElementById("fivebutton2").innerHTML === timetitle[2]){
+    	l=1;
+    	m=2;
+    	n=3;
+        document.getElementById("fivebutton1").innerHTML=timetitle[l];
+        document.getElementById("title2").innerHTML=timetitle[m];
+        document.getElementById("fivebutton2").innerHTML=timetitle[n];
+		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/IBMTopFiveOtherCompaniesLastYear.png";
+
+    }else if (document.getElementById("fivebutton2").innerHTML === timetitle[3]){
+    	l=2;
+        m=3;
+        n=0;
+        document.getElementById("fivebutton1").innerHTML=timetitle[l];
+        document.getElementById("title2").innerHTML=timetitle[m];
+        document.getElementById("fivebutton2").innerHTML=timetitle[n];
+		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/IBMTopFiveOtherCompaniesAllTime.png";
+
+    }else if (document.getElementById("fivebutton2").innerHTML === timetitle[0]){
+    	l=3;
+        m=0;
+        n=1;
+        document.getElementById("fivebutton1").innerHTML=timetitle[l];
+        document.getElementById("title2").innerHTML=timetitle[m];
+        document.getElementById("fivebutton2").innerHTML=timetitle[n];
+		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/IBMTopFiveOtherCompaniesLastWeek.png";
+
+    }
+    
+   
+}
+
+document.getElementById("tagbutton1").innerHTML = timetitle[3];
+
+document.getElementById("tagtitle").innerHTML = timetitle[0];
+
+document.getElementById("tagbutton2").innerHTML = timetitle[1];
+
+document.getElementById("tagbutton1").addEventListener("click",changetagbutton1);
+
+document.getElementById("tagbutton2").addEventListener("click",changetagbutton2);
+
+var tagbutton1 = document.getElementById("tagbutton1");
+tagbutton1.innerHMTL = timetitle[l];
+    
+var tagtitle = document.getElementById("tagtitle");
+tagtitle.innerHTML = timetitle[m];
+    
+var tagbutton2 = document.getElementById("tagbutton2");
+tagbutton2.innerHTML = timetitle[n];
+    
+function changetagbutton1(l,m,n) {
+
+
+    if(document.getElementById("tagbutton1").innerHTML === timetitle[3]){
+    	l=2;
+        m=3;
+        n=0;
+        document.getElementById("tagbutton1").innerHTML=timetitle[l];
+        document.getElementById("tagtitle").innerHTML=timetitle[m];
+        document.getElementById("tagbutton2").innerHTML=timetitle[n]; 
+		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/IBMTagsAllTime.png";
+    }else if(document.getElementById("tagbutton1").innerHTML === timetitle[2]){
+    	l=1;
+    	m=2;
+    	n=3;
+        document.getElementById("tagbutton1").innerHTML=timetitle[l];
+        document.getElementById("tagtitle").innerHTML=timetitle[m];
+        document.getElementById("tagbutton2").innerHTML=timetitle[n];
+		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/IBMTagsLastYear.png";
+    }else if (document.getElementById("tagbutton1").innerHTML === timetitle[1]){
+    	l=0;
+        m=1;
+        n=2;
+        document.getElementById("tagbutton1").innerHTML=timetitle[l];
+        document.getElementById("tagtitle").innerHTML=timetitle[m];
+        document.getElementById("tagbutton2").innerHTML=timetitle[n];
+		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/IBMTagsLastMonth.png";
+
+    }else if (document.getElementById("tagbutton1").innerHTML === timetitle[0]){
+    	l=3;
+        m=0;
+        n=1;
+        document.getElementById("tagbutton1").innerHTML=timetitle[l];
+        document.getElementById("tagtitle").innerHTML=timetitle[m];
+        document.getElementById("tagbutton2").innerHTML=timetitle[n];
+		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/IBMTagsLastWeek.png";
+    }
+    
+   
+}
+function changetagbutton2(l,m,n) {
+
+    
+    if(document.getElementById("tagbutton2").innerHTML === timetitle[1]){
+    	l=0;
+        m=1;
+        n=2;
+        document.getElementById("tagbutton1").innerHTML=timetitle[l];
+        document.getElementById("tagtitle").innerHTML=timetitle[m];
+        document.getElementById("tagbutton2").innerHTML=timetitle[n];
+		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/IBMTagsLastMonth.png";
+        
+    }else if(document.getElementById("tagbutton2").innerHTML === timetitle[2]){
+    	l=1;
+    	m=2;
+    	n=3;
+        document.getElementById("tagbutton1").innerHTML=timetitle[l];
+        document.getElementById("tagtitle").innerHTML=timetitle[m];
+        document.getElementById("tagbutton2").innerHTML=timetitle[n];
+		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/IBMTagsLastYear.png";
+
+    }else if (document.getElementById("tagbutton2").innerHTML === timetitle[3]){
+    	l=2;
+        m=3;
+        n=0;
+        document.getElementById("tagbutton1").innerHTML=timetitle[l];
+        document.getElementById("tagtitle").innerHTML=timetitle[m];
+        document.getElementById("tagbutton2").innerHTML=timetitle[n];
+		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/IBMTagsAllTime.png";
+
+    }else if (document.getElementById("tagbutton2").innerHTML === timetitle[0]){
+    	l=3;
+        m=0;
+        n=1;
+        document.getElementById("tagbutton1").innerHTML=timetitle[l];
+        document.getElementById("tagtitle").innerHTML=timetitle[m];
+        document.getElementById("tagbutton2").innerHTML=timetitle[n];
+		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/IBMTagsLastWeek.png";
+
+    }
+    
+   
+}
+
+
 // Get the Sidebar
 var mySidebar = document.getElementById("mySidebar");
 
