@@ -114,7 +114,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 				</div>
 			
 				<div class="w3-half w3-col w3-center">
-					<img id="volimg" src="..\VM\visualization\WebsitePNGs\DXCVolumeLastWeek.png" style="width:100%;height:auto;">
+					<img id="volimg" src="VM\visualization\WebsitePNGs\DXCVolumeLastWeek.png" style="width:100%;height:auto;">
 				</div>
 			
 				<div class="w3-quarter w3-col w3-center w3-padding-64">
@@ -130,7 +130,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 				</div>
 			
 				<div class="w3-half w3-col w3-center">
-					<img id="priceimg" src="..\VM\visualization\WebsitePNGs\DXCPriceLastWeek.png" style="width:100%;height:auto;">
+					<img id="priceimg" src="VM\visualization\WebsitePNGs\DXCPriceLastWeek.png" style="width:100%;height:auto;">
 				</div>
 			
 				<div class="w3-quarter w3-col w3-center w3-padding-64">
@@ -157,7 +157,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 	
 	<div class="w3-row w3-center">
 		<div class="w3-center">
-			<img id="fiveimg" src="..\VM\visualization\WebsitePNGs\DXCTopFiveOtherCompaniesLastWeek.png" style="width:50%;height:auto">
+			<img id="fiveimg" src="VM\visualization\WebsitePNGs\DXCTopFiveOtherCompaniesLastWeek.png" style="width:50%;height:auto">
 		</div>
 	</div>
 
@@ -179,8 +179,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 	
 	<div class="w3-row w3-center">
 		<div class="w3-center">
-			<img id="tagimg" src="..\VM\visualization\WebsitePNGs\DXCTagsLastWeek.png" style="width:50%;height:auto">
+			<img id="tagimg" src="VM\visualization\WebsitePNGs\DXCTagsLastWeek.png" style="width:50%;height:auto">
 		</div>
+	</div>
+	
+	<div class="w3-row w3-center">
+		<h1>Neural Network Prediction</h1>
+		<img src="VM\DXCfolder\DXCnnPrediction.png">
 	</div>
 
  
@@ -226,7 +231,7 @@ function changevolbutton1(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k]; 
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/DXCVolumeAllTime.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/DXCVolumeAllTime.png";
     }else if(document.getElementById("volbutton1").innerHTML === timetitle[2]){
     	i=1;
     	j=2;
@@ -234,7 +239,7 @@ function changevolbutton1(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/DXCVolumeLastYear.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/DXCVolumeLastYear.png";
     }else if (document.getElementById("volbutton1").innerHTML === timetitle[1]){
     	i=0;
         j=1;
@@ -242,7 +247,7 @@ function changevolbutton1(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/DXCVolumeLastMonth.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/DXCVolumeLastMonth.png";
 
     }else if (document.getElementById("volbutton1").innerHTML === timetitle[0]){
     	i=3;
@@ -251,7 +256,7 @@ function changevolbutton1(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/DXCVolumeLastWeek.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/DXCVolumeLastWeek.png";
     }
     
    
@@ -266,7 +271,7 @@ function changevolbutton2(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/DXCVolumeLastMonth.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/DXCVolumeLastMonth.png";
         
     }else if(document.getElementById("volbutton2").innerHTML === timetitle[2]){
     	i=1;
@@ -275,7 +280,7 @@ function changevolbutton2(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/DXCVolumeLastYear.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/DXCVolumeLastYear.png";
 
     }else if (document.getElementById("volbutton2").innerHTML === timetitle[3]){
     	i=2;
@@ -284,7 +289,7 @@ function changevolbutton2(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/DXCVolumeAllTime.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/DXCVolumeAllTime.png";
 
     }else if (document.getElementById("volbutton2").innerHTML === timetitle[0]){
     	i=3;
@@ -293,7 +298,7 @@ function changevolbutton2(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/DXCVolumeLastWeek.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/DXCVolumeLastWeek.png";
 
     }
     
@@ -328,7 +333,7 @@ function changepricebutton1(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k]; 
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/DXCPriceAllTime.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/DXCPriceAllTime.png";
     }else if(document.getElementById("pricebutton1").innerHTML === timetitle[2]){
     	i=1;
     	j=2;
@@ -336,7 +341,7 @@ function changepricebutton1(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/DXCPriceLastYear.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/DXCPriceLastYear.png";
     }else if (document.getElementById("pricebutton1").innerHTML === timetitle[1]){
     	i=0;
         j=1;
@@ -344,7 +349,7 @@ function changepricebutton1(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/DXCPriceLastMonth.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/DXCPriceLastMonth.png";
 
     }else if (document.getElementById("pricebutton1").innerHTML === timetitle[0]){
     	i=3;
@@ -353,7 +358,7 @@ function changepricebutton1(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/DXCPriceLastWeek.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/DXCPriceLastWeek.png";
     }
     
    
@@ -368,7 +373,7 @@ function changepricebutton2(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/DXCPriceLastMonth.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/DXCPriceLastMonth.png";
         
     }else if(document.getElementById("pricebutton2").innerHTML === timetitle[2]){
     	i=1;
@@ -377,7 +382,7 @@ function changepricebutton2(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/DXCPriceLastYear.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/DXCPriceLastYear.png";
 
     }else if (document.getElementById("pricebutton2").innerHTML === timetitle[3]){
     	i=2;
@@ -386,7 +391,7 @@ function changepricebutton2(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/DXCPriceAllTime.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/DXCPriceAllTime.png";
 
     }else if (document.getElementById("pricebutton2").innerHTML === timetitle[0]){
     	i=3;
@@ -395,7 +400,7 @@ function changepricebutton2(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/DXCPriceLastWeek.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/DXCPriceLastWeek.png";
 
     }
     
@@ -435,7 +440,7 @@ function changefivebutton1(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n]; 
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesAllTime.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesAllTime.png";
     }else if(document.getElementById("fivebutton1").innerHTML === timetitle[2]){
     	l=1;
     	m=2;
@@ -443,7 +448,7 @@ function changefivebutton1(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesLastYear.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesLastYear.png";
     }else if (document.getElementById("fivebutton1").innerHTML === timetitle[1]){
     	l=0;
         m=1;
@@ -451,7 +456,7 @@ function changefivebutton1(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesLastMonth.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesLastMonth.png";
 
     }else if (document.getElementById("fivebutton1").innerHTML === timetitle[0]){
     	l=3;
@@ -460,7 +465,7 @@ function changefivebutton1(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesLastWeek.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesLastWeek.png";
     }
     
    
@@ -475,7 +480,7 @@ function changefivebutton2(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesLastMonth.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesLastMonth.png";
         
     }else if(document.getElementById("fivebutton2").innerHTML === timetitle[2]){
     	l=1;
@@ -484,7 +489,7 @@ function changefivebutton2(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesLastYear.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesLastYear.png";
 
     }else if (document.getElementById("fivebutton2").innerHTML === timetitle[3]){
     	l=2;
@@ -493,7 +498,7 @@ function changefivebutton2(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesAllTime.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesAllTime.png";
 
     }else if (document.getElementById("fivebutton2").innerHTML === timetitle[0]){
     	l=3;
@@ -502,7 +507,7 @@ function changefivebutton2(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesLastWeek.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/DXCTopFiveOtherCompaniesLastWeek.png";
 
     }
     
@@ -538,7 +543,7 @@ function changetagbutton1(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n]; 
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/DXCTagsAllTime.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/DXCTagsAllTime.png";
     }else if(document.getElementById("tagbutton1").innerHTML === timetitle[2]){
     	l=1;
     	m=2;
@@ -546,7 +551,7 @@ function changetagbutton1(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/DXCTagsLastYear.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/DXCTagsLastYear.png";
     }else if (document.getElementById("tagbutton1").innerHTML === timetitle[1]){
     	l=0;
         m=1;
@@ -554,7 +559,7 @@ function changetagbutton1(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/DXCTagsLastMonth.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/DXCTagsLastMonth.png";
 
     }else if (document.getElementById("tagbutton1").innerHTML === timetitle[0]){
     	l=3;
@@ -563,7 +568,7 @@ function changetagbutton1(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/DXCTagsLastWeek.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/DXCTagsLastWeek.png";
     }
     
    
@@ -578,7 +583,7 @@ function changetagbutton2(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/DXCTagsLastMonth.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/DXCTagsLastMonth.png";
         
     }else if(document.getElementById("tagbutton2").innerHTML === timetitle[2]){
     	l=1;
@@ -587,7 +592,7 @@ function changetagbutton2(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/DXCTagsLastYear.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/DXCTagsLastYear.png";
 
     }else if (document.getElementById("tagbutton2").innerHTML === timetitle[3]){
     	l=2;
@@ -596,7 +601,7 @@ function changetagbutton2(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/DXCTagsAllTime.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/DXCTagsAllTime.png";
 
     }else if (document.getElementById("tagbutton2").innerHTML === timetitle[0]){
     	l=3;
@@ -605,7 +610,7 @@ function changetagbutton2(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/DXCTagsLastWeek.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/DXCTagsLastWeek.png";
 
     }
     

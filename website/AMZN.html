@@ -110,7 +110,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 				</div>
 			
 				<div class="w3-half w3-col w3-center">
-					<img id="volimg" src="..\VM\visualization\WebsitePNGs\AMZNVolumeLastWeek.png" style="width:100%;height:auto;">
+					<img id="volimg" src="VM\visualization\WebsitePNGs\AMZNVolumeLastWeek.png" style="width:100%;height:auto;">
 				</div>
 			
 				<div class="w3-quarter w3-col w3-center w3-padding-64">
@@ -126,7 +126,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 				</div>
 			
 				<div class="w3-half w3-col w3-center">
-					<img id="priceimg" src="..\VM\visualization\WebsitePNGs\AMZNPriceLastWeek.png" style="width:100%;height:auto;">
+					<img id="priceimg" src="VM\visualization\WebsitePNGs\AMZNPriceLastWeek.png" style="width:100%;height:auto;">
 				</div>
 			
 				<div class="w3-quarter w3-col w3-center w3-padding-64">
@@ -153,7 +153,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 	
 	<div class="w3-row w3-center">
 		<div class="w3-center">
-			<img id="fiveimg" src="..\VM\visualization\WebsitePNGs\AMZNTopFiveOtherCompaniesLastWeek.png" style="width:50%;height:auto">
+			<img id="fiveimg" src="VM\visualization\WebsitePNGs\AMZNTopFiveOtherCompaniesLastWeek.png" style="width:50%;height:auto">
 		</div>
 	</div>
 
@@ -175,8 +175,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 	
 	<div class="w3-row w3-center">
 		<div class="w3-center">
-			<img id="tagimg" src="..\VM\visualization\WebsitePNGs\AMZNTagsLastWeek.png" style="width:50%;height:auto">
+			<img id="tagimg" src="VM\visualization\WebsitePNGs\AMZNTagsLastWeek.png" style="width:50%;height:auto">
 		</div>
+	</div>
+
+	<div class="w3-row w3-center">
+		<h1>Neural Network Prediction</h1>
+		<img src="VM\AMZNfolder\AMZNnnPrediction.png">
 	</div>
 
  
@@ -222,7 +227,7 @@ function changevolbutton1(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k]; 
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/AMZNVolumeAllTime.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/AMZNVolumeAllTime.png";
     }else if(document.getElementById("volbutton1").innerHTML === timetitle[2]){
     	i=1;
     	j=2;
@@ -230,7 +235,7 @@ function changevolbutton1(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/AMZNVolumeLastYear.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/AMZNVolumeLastYear.png";
     }else if (document.getElementById("volbutton1").innerHTML === timetitle[1]){
     	i=0;
         j=1;
@@ -238,7 +243,7 @@ function changevolbutton1(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/AMZNVolumeLastMonth.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/AMZNVolumeLastMonth.png";
 
     }else if (document.getElementById("volbutton1").innerHTML === timetitle[0]){
     	i=3;
@@ -247,7 +252,7 @@ function changevolbutton1(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/AMZNVolumeLastWeek.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/AMZNVolumeLastWeek.png";
     }
     
    
@@ -262,7 +267,7 @@ function changevolbutton2(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/AMZNVolumeLastMonth.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/AMZNVolumeLastMonth.png";
         
     }else if(document.getElementById("volbutton2").innerHTML === timetitle[2]){
     	i=1;
@@ -271,7 +276,7 @@ function changevolbutton2(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/AMZNVolumeLastYear.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/AMZNVolumeLastYear.png";
 
     }else if (document.getElementById("volbutton2").innerHTML === timetitle[3]){
     	i=2;
@@ -280,7 +285,7 @@ function changevolbutton2(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/AMZNVolumeAllTime.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/AMZNVolumeAllTime.png";
 
     }else if (document.getElementById("volbutton2").innerHTML === timetitle[0]){
     	i=3;
@@ -289,7 +294,7 @@ function changevolbutton2(i,j,k) {
         document.getElementById("volbutton1").innerHTML=timetitle[i];
         document.getElementById("title1").innerHTML=timetitle[j];
         document.getElementById("volbutton2").innerHTML=timetitle[k];
-		document.getElementById("volimg").src="../VM/visualization/WebsitePNGs/AMZNVolumeLastWeek.png";
+		document.getElementById("volimg").src="VM/visualization/WebsitePNGs/AMZNVolumeLastWeek.png";
 
     }
     
@@ -324,7 +329,7 @@ function changepricebutton1(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k]; 
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/AMZNPriceAllTime.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/AMZNPriceAllTime.png";
     }else if(document.getElementById("pricebutton1").innerHTML === timetitle[2]){
     	i=1;
     	j=2;
@@ -332,7 +337,7 @@ function changepricebutton1(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/AMZNPriceLastYear.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/AMZNPriceLastYear.png";
     }else if (document.getElementById("pricebutton1").innerHTML === timetitle[1]){
     	i=0;
         j=1;
@@ -340,7 +345,7 @@ function changepricebutton1(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/AMZNPriceLastMonth.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/AMZNPriceLastMonth.png";
 
     }else if (document.getElementById("pricebutton1").innerHTML === timetitle[0]){
     	i=3;
@@ -349,7 +354,7 @@ function changepricebutton1(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/AMZNPriceLastWeek.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/AMZNPriceLastWeek.png";
     }
     
    
@@ -364,7 +369,7 @@ function changepricebutton2(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/AMZNPriceLastMonth.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/AMZNPriceLastMonth.png";
         
     }else if(document.getElementById("pricebutton2").innerHTML === timetitle[2]){
     	i=1;
@@ -373,7 +378,7 @@ function changepricebutton2(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/AMZNPriceLastYear.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/AMZNPriceLastYear.png";
 
     }else if (document.getElementById("pricebutton2").innerHTML === timetitle[3]){
     	i=2;
@@ -382,7 +387,7 @@ function changepricebutton2(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/AMZNPriceAllTime.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/AMZNPriceAllTime.png";
 
     }else if (document.getElementById("pricebutton2").innerHTML === timetitle[0]){
     	i=3;
@@ -391,7 +396,7 @@ function changepricebutton2(i,j,k) {
         document.getElementById("pricebutton1").innerHTML=timetitle[i];
         document.getElementById("pricetitle").innerHTML=timetitle[j];
         document.getElementById("pricebutton2").innerHTML=timetitle[k];
-		document.getElementById("priceimg").src="../VM/visualization/WebsitePNGs/AMZNPriceLastWeek.png";
+		document.getElementById("priceimg").src="VM/visualization/WebsitePNGs/AMZNPriceLastWeek.png";
 
     }
     
@@ -431,7 +436,7 @@ function changefivebutton1(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n]; 
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesAllTime.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesAllTime.png";
     }else if(document.getElementById("fivebutton1").innerHTML === timetitle[2]){
     	l=1;
     	m=2;
@@ -439,7 +444,7 @@ function changefivebutton1(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesLastYear.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesLastYear.png";
     }else if (document.getElementById("fivebutton1").innerHTML === timetitle[1]){
     	l=0;
         m=1;
@@ -447,7 +452,7 @@ function changefivebutton1(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesLastMonth.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesLastMonth.png";
 
     }else if (document.getElementById("fivebutton1").innerHTML === timetitle[0]){
     	l=3;
@@ -456,7 +461,7 @@ function changefivebutton1(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesLastWeek.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesLastWeek.png";
     }
     
    
@@ -471,7 +476,7 @@ function changefivebutton2(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesLastMonth.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesLastMonth.png";
         
     }else if(document.getElementById("fivebutton2").innerHTML === timetitle[2]){
     	l=1;
@@ -480,7 +485,7 @@ function changefivebutton2(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesLastYear.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesLastYear.png";
 
     }else if (document.getElementById("fivebutton2").innerHTML === timetitle[3]){
     	l=2;
@@ -489,7 +494,7 @@ function changefivebutton2(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesAllTime.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesAllTime.png";
 
     }else if (document.getElementById("fivebutton2").innerHTML === timetitle[0]){
     	l=3;
@@ -498,7 +503,7 @@ function changefivebutton2(l,m,n) {
         document.getElementById("fivebutton1").innerHTML=timetitle[l];
         document.getElementById("title2").innerHTML=timetitle[m];
         document.getElementById("fivebutton2").innerHTML=timetitle[n];
-		document.getElementById("fiveimg").src="../VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesLastWeek.png";
+		document.getElementById("fiveimg").src="VM/visualization/WebsitePNGs/AMZNTopFiveOtherCompaniesLastWeek.png";
 
     }
     
@@ -534,7 +539,7 @@ function changetagbutton1(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n]; 
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/AMZNTagsAllTime.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/AMZNTagsAllTime.png";
     }else if(document.getElementById("tagbutton1").innerHTML === timetitle[2]){
     	l=1;
     	m=2;
@@ -542,7 +547,7 @@ function changetagbutton1(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/AMZNTagsLastYear.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/AMZNTagsLastYear.png";
     }else if (document.getElementById("tagbutton1").innerHTML === timetitle[1]){
     	l=0;
         m=1;
@@ -550,7 +555,7 @@ function changetagbutton1(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/AMZNTagsLastMonth.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/AMZNTagsLastMonth.png";
 
     }else if (document.getElementById("tagbutton1").innerHTML === timetitle[0]){
     	l=3;
@@ -559,7 +564,7 @@ function changetagbutton1(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/AMZNTagsLastWeek.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/AMZNTagsLastWeek.png";
     }
     
    
@@ -574,7 +579,7 @@ function changetagbutton2(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/AMZNTagsLastMonth.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/AMZNTagsLastMonth.png";
         
     }else if(document.getElementById("tagbutton2").innerHTML === timetitle[2]){
     	l=1;
@@ -583,7 +588,7 @@ function changetagbutton2(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/AMZNTagsLastYear.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/AMZNTagsLastYear.png";
 
     }else if (document.getElementById("tagbutton2").innerHTML === timetitle[3]){
     	l=2;
@@ -592,7 +597,7 @@ function changetagbutton2(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/AMZNTagsAllTime.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/AMZNTagsAllTime.png";
 
     }else if (document.getElementById("tagbutton2").innerHTML === timetitle[0]){
     	l=3;
@@ -601,7 +606,7 @@ function changetagbutton2(l,m,n) {
         document.getElementById("tagbutton1").innerHTML=timetitle[l];
         document.getElementById("tagtitle").innerHTML=timetitle[m];
         document.getElementById("tagbutton2").innerHTML=timetitle[n];
-		document.getElementById("tagimg").src="../VM/visualization/WebsitePNGs/AMZNTagsLastWeek.png";
+		document.getElementById("tagimg").src="VM/visualization/WebsitePNGs/AMZNTagsLastWeek.png";
 
     }
     
