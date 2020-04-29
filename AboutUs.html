@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>About</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+.w3-sidebar {
+  z-index: 3;
+  width: 250px;
+  top: 43px;
+  bottom: 0;
+  height: inherit;
+}
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-right w3-hide-large w3-hover-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
+    <a href="Index.html" class="w3-bar-item w3-button w3-theme-l1">Home</a>
+    <a href="welcpred.html" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Predictions</a>
+    <a href="AboutUs.html" class="w3-bar-item w3-button w3-hide-small w3-hover-white">About</a>
+
+  </div>
+</div>
+
+
+
+
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- Main content: shift it to the right by 250 pixels when the sidebar is visible -->
+<div class="w3-main">
+<div class="w3-center w3-container">
+
+
+
+ 
+<div class="w3-container w3-padding-64 w3-center" id="team">
+<h2>About Us</h2>
+
+<div class="w3-row"><br>
+
+<div class="w3-quarter">
+  <img src="Russell.jpg" alt="Russell" style="width:45%">
+  <h3>Russell Bradshaw</h3>
+  <p>Russell is a senior at Marist College, and he will be graduating
+  in May 2020 with a Bachelors in Data Science while minoring in 
+  Mathematics and Computer Science. Russell is in charge of monitoring
+  data flow from the raw sources through the whole project. He also is 
+  in charge of the machine learning algorithms and the neural network
+  predictions.</p>
+</div>
+
+<div class="w3-quarter">
+  <img src="Cameron.jpg.jpg" alt="Cameron" style="width:45%">
+  <h3>Cameron Brenner</h3>
+  <p>Cameron is a senior at Marist College majoring in Data Science and
+  minoring in Mathematics, and he will be graduating in May of 2020. He is responsible for designing and creating the 
+  user-interface. Cameron is in charge of putting all of Russell and Chris's work
+  into a friendly and pleasant experience for the user.</p>
+</div>
+
+<div class="w3-quarter">
+  <img src="Ashish.jpg" alt="Ashish" style="width:75%" >
+  <h3>Ashish Joshi</h3>
+  <p>Ashish is a rising senior at Marist College majoring in Data
+  Science, and minoring in Mathematics. Ashish has been the project
+  manager for the young men capping group, and was responsible for
+  overseeing and managing the project from start to finish, and
+  providing additional support to team members when needed. Ashish
+  was also responsible for selecting the technology stocks and creating
+  profiles for each of them.</p>
+</div>
+
+<div class="w3-quarter">
+  <img src="Chris.jpg.jpg" alt="Chris" style="width:60%">
+  <h3>Christopher Major</h3>
+  <p>Chris is a Senior at Marist College majoring in Data Science
+  & Analytics with a minor in Mathematics. His role for the project
+  was to create the data visualizations, which were primarily done
+  in Python.</p>
+  <p>After graduation, Chris will be starting a full-time
+  role as an Associate Data Engineer at Fidelity Investments. 
+  After seventeen-weeks of accelerated technology, business and 
+  professional training, Chris will move to Merrimack, 
+  New Hampshire for his full-time role in Market Data.</p><br>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<!-- END MAIN -->
+</div>
+
+<script>
+// Get the Sidebar
+var mySidebar = document.getElementById("mySidebar");
+
+// Get the DIV with overlay effect
+var overlayBg = document.getElementById("myOverlay");
+
+// Toggle between showing and hiding the sidebar, and add overlay effect
+function w3_open() {
+  if (mySidebar.style.display === 'block') {
+    mySidebar.style.display = 'none';
+    overlayBg.style.display = "none";
+  } else {
+    mySidebar.style.display = 'block';
+    overlayBg.style.display = "block";
+  }
+}
+
+// Close the sidebar with the close button
+function w3_close() {
+  mySidebar.style.display = "none";
+  overlayBg.style.display = "none";
+}
+</script>
+
+</body>
+</html>
